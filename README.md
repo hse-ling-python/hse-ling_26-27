@@ -34,9 +34,9 @@
       <a href="">Презентация</a>
       <a href="">Тетрадка</a>
     </td>
-    <td align="center">08.09.2026</td>
-    <td align="center">08.09.2026</td>
-    <td align="center">08.09.2026</td>
+    <td align="center">07.09.2026</td>
+    <td align="center">07.09.2026</td>
+    <td align="center">07.09.2026</td>
   </tr>
 </table>
 
