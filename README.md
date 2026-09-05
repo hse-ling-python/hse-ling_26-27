@@ -32,7 +32,8 @@
     <td>Вводный семинар. Markdown, json</td>
     <td>
       <a href="">Презентация</a>
-      <a href="">Тетрадка</a>
+      <br>
+      <a href="seminars/2026_1_markdown+json.ipynb">Тетрадка</a>
     </td>
     <td align="center">07.09.2026</td>
     <td align="center">07.09.2026</td>
