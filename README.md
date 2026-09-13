@@ -39,6 +39,26 @@
     <td align="center">07.09.2026</td>
     <td align="center">07.09.2026</td>
   </tr>
+  <tr>
+    <td>2</td>
+    <td>Терминал, git и зависимости проекта</td>
+    <td>
+      <a href="seminars/2026_2_terminal+git+dependencies.ipynb">Тетрадка</a>
+    </td>
+    <td align="center">14.09.2026</td>
+    <td align="center">14.09.2026</td>
+    <td align="center">14.09.2026</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Гигиена кода в NLP и лицензии</td>
+    <td>
+      <a href="">Презентация</a>
+    </td>
+    <td align="center">14.09.2026</td>
+    <td align="center">14.09.2026</td>
+    <td align="center">14.09.2026</td>
+  </tr>
 </table>
 
 ## Домашние задания
