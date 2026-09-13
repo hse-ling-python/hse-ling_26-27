@@ -31,7 +31,7 @@
     <td>1</td>
     <td>Вводный семинар. Markdown, json</td>
     <td>
-      <a href="">Презентация</a>
+      <a href="https://docs.google.com/presentation/d/15YPTpjQKnJVHg0EOz--GJAxMEXW3vsDtmZfjBATcVkY/edit?usp=sharing">Презентация</a>
       <br>
       <a href="seminars/2026_1_markdown+json.ipynb">Тетрадка</a>
     </td>
@@ -53,7 +53,7 @@
     <td>3</td>
     <td>Гигиена кода в NLP и лицензии</td>
     <td>
-      <a href="">Презентация</a>
+      <a href="https://docs.google.com/presentation/d/1sZEWX9WwTRkpzxLzrYabS-9qG4r2-T0k3b2KSLSnCU4/edit?usp=sharing">Презентация</a>
     </td>
     <td align="center">14.09.2026</td>
     <td align="center">14.09.2026</td>
