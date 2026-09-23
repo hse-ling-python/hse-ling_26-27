@@ -65,6 +65,6 @@
 
 | # | Ссылка | Дедлайн |
 |-|-|-|
-|-|-|-|
+|1|[Git](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/python2nd_2026_hw1.md)|02.10, 23:59|
 
 ## Дополнительные материалы
