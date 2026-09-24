@@ -23,9 +23,9 @@
     <th colspan="3" style="text-align: center; vertical-align: middle;">Дата семинара</th>
   </tr>
   <tr>
-    <th align="center">БФИКЛ251</th>
-    <th align="center">БФИКЛ252</th>
-    <th align="center">БФИКЛ253</th>
+    <th align="center">БФИКЛ251 (Елизавета)</th>
+    <th align="center">БФИКЛ252 (Вероника)</th>
+    <th align="center">БФИКЛ253 (Ника)</th>
   </tr>
   <tr>
     <td>1</td>
@@ -58,6 +58,16 @@
     <td align="center">14.09.2026</td>
     <td align="center">14.09.2026</td>
     <td align="center">14.09.2026</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Pandas, введение</td>
+    <td>
+      <a href="https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/pandas_theory_2026.ipynb">Тетрадка-туториал</a>
+    </td>
+    <td align="center">28.09.2026</td>
+    <td align="center">02.10.2026</td>
+    <td align="center">28.09.2026</td>
   </tr>
 </table>
 
