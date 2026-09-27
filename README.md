@@ -64,6 +64,8 @@
     <td>Pandas, введение</td>
     <td>
       <a href="https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/pandas_theory_2026.ipynb">Тетрадка-туториал</a>
+      <br>
+      <a href="https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/pandas_training_2026.ipynb">Практика</a>
     </td>
     <td align="center">28.09.2026</td>
     <td align="center">02.10.2026</td>
