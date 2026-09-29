@@ -1,0 +1,1253 @@
+# newdoc_id = uch-nauch--encicl_litved--slovar-liter1988_047
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-1
+# genre = nonfiction-academic-encycl
+# text = Замысел и воплощение
+1	Замысел	замысел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	sent_before='<root>\n<body>\n<p class="head">'
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	воплощение	воплощение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	conj	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-2
+# genre = nonfiction-academic-encycl
+# text = Несовпадение замысла и его воплощения в художественном тексте много раз было замечено и писателями, и критиками, и исследователями.
+1	Несовпадение	несовпадение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj:pass	_	_
+2	замысла	замысел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+3	и	и	CCONJ	_	_	5	cc	_	_
+4	его	его	DET	_	Poss=Yes|PronType=Prs	5	det	_	_
+5	воплощения	воплощение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	conj	_	_
+6	в	в	ADP	_	_	8	case	_	_
+7	художественном	художественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	8	amod	_	_
+8	тексте	текст	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	nmod	_	_
+9	много	много	NUM	_	Case=Acc|NumForm=Word|NumType=Card	10	nummod:gov	_	_
+10	раз	раз	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	obl:tmod	_	_
+11	было	быть	AUX	_	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	12	aux:pass	_	feat="Transit=Intr"|_
+12	замечено	заметить	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	feat="Transit=Tran"|_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	писателями	писатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	12	obl:agent	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	критиками	критик	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	14	conj	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	исследователями	исследователь	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	14	conj	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-3
+# genre = nonfiction-academic-encycl
+# text = Так, например, Н. А. Добролюбов, желая подчеркнуть, что «реальная критика» не интересуется «предварительными соображениями» автора (т. е. его замыслом), писал в статье о романе И. С. Тургенева «Накануне»: «Для нас не столько важно то, что хотел сказать автор, сколько то, что сказалось им, хотя бы и ненамеренно, просто вследствие правдивого воспроизведения фактов жизни».
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	31	parataxis:discourse	_	pos="PARENTH"|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	_
+3	например	например	ADV	_	_	31	parataxis:discourse	_	pos="PARENTH"|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	_
+5	Н.	Н	PROPN	_	Abbr=Yes|NameType=Giv	31	nsubj	_	pos="INIT"|_
+6	А.	А	PROPN	_	Abbr=Yes|NameType=Pat	5	flat:name	_	pos="INIT"|_
+7	Добролюбов	Добролюбов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	5	flat:name	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	желая	желать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	31	advcl	_	feat="Transit=Intr"|_
+10	подчеркнуть	подчеркнуть	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	feat="Transit=Tran"|SpaceAfter=No
+11	,	,	PUNCT	_	_	18	punct	_	_
+12	что	что	SCONJ	_	_	18	mark	_	_
+13	«	«	PUNCT	_	_	15	punct	_	SpaceAfter=No
+14	реальная	реальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	15	amod	_	_
+15	критика	критика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	18	nsubj	_	SpaceAfter=No
+16	»	»	PUNCT	_	_	15	punct	_	_
+17	не	не	PART	_	Polarity=Neg	18	advmod	_	_
+18	интересуется	интересоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	10	ccomp	_	feat="Transit=Intr"|_
+19	«	«	PUNCT	_	_	21	punct	_	SpaceAfter=No
+20	предварительными	предварительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	21	amod	_	_
+21	соображениями	соображение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	18	iobj	_	SpaceAfter=No
+22	»	»	PUNCT	_	_	21	punct	_	_
+23	автора	автор	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	21	nmod	_	_
+24	(	(	PUNCT	_	_	28	punct	_	SpaceAfter=No
+25	т.	то	PRON	_	Abbr=Yes|ExtPos=SCONJ|PronType=Dem	28	mark	_	_
+26	е.	быть	VERB	_	Abbr=Yes	25	fixed	_	_
+27	его	его	DET	_	Poss=Yes|PronType=Prs	28	det	_	_
+28	замыслом	замысел	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	parataxis	_	SpaceAfter=No
+29	)	)	PUNCT	_	_	28	punct	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	9	punct	_	_
+31	писал	писать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr,Tran"|_
+32	в	в	ADP	_	_	33	case	_	_
+33	статье	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	31	obl	_	_
+34	о	о	ADP	_	_	35	case	_	_
+35	романе	роман	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	33	nmod	_	_
+36	И.	И	PROPN	_	Abbr=Yes|NameType=Giv	35	nmod	_	pos="INIT"|_
+37	С.	С	PROPN	_	Abbr=Yes|NameType=Pat	36	flat:name	_	pos="INIT"|_
+38	Тургенева	Тургенев	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	36	flat:name	_	_
+39	«	«	PUNCT	_	_	40	punct	_	SpaceAfter=No
+40	Накануне	накануне	ADV	_	Degree=Pos	35	appos	_	SpaceAfter=No
+41	»	»	PUNCT	_	_	40	punct	_	SpaceAfter=No
+42	:	:	PUNCT	_	_	48	punct	_	_
+43	«	«	PUNCT	_	_	48	punct	_	SpaceAfter=No
+44	Для	для	ADP	_	_	45	case	_	_
+45	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1|PronType=Prs	48	obl	_	_
+46	не	не	PART	_	ExtPos=CCONJ|Polarity=Neg	48	cc	_	_
+47	столько	столько	ADV	_	Degree=Pos|PronType=Dem	46	fixed	_	pos="ADVPRO"|_
+48	важно	важный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	31	parataxis	_	_
+49	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	48	nsubj	_	SpaceAfter=No
+50	,	,	PUNCT	_	_	52	punct	_	_
+51	что	что	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Rel	53	obj	_	_
+52	хотел	хотеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	49	acl	_	feat="Transit=Intr,Tran"|_
+53	сказать	сказать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	52	xcomp	_	feat="Transit=Tran"|_
+54	автор	автор	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	52	nsubj	_	SpaceAfter=No
+55	,	,	PUNCT	_	_	57	punct	_	_
+56	сколько	сколько	CCONJ	_	_	57	cc	_	_
+57	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	49	conj	_	SpaceAfter=No
+58	,	,	PUNCT	_	_	60	punct	_	_
+59	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	60	nsubj:pass	_	_
+60	сказалось	сказать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	57	acl	_	feat="Transit=Tran"|_
+61	им	он	PRON	_	Case=Ins|Gender=Masc|Number=Sing|Person=3|PronType=Prs	60	obl:agent	_	SpaceAfter=No
+62	,	,	PUNCT	_	_	66	punct	_	_
+63	хотя	хотя	SCONJ	_	ExtPos=SCONJ	66	mark	_	_
+64	бы	бы	PART	_	_	63	fixed	_	_
+65	и	и	PART	_	_	66	advmod	_	_
+66	ненамеренно	ненамеренно	ADV	_	Degree=Pos	60	advmod	_	SpaceAfter=No
+67	,	,	PUNCT	_	_	71	punct	_	_
+68	просто	просто	PART	_	_	71	advmod	_	_
+69	вследствие	вследствие	ADP	_	_	71	case	_	_
+70	правдивого	правдивый	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	71	amod	_	_
+71	воспроизведения	воспроизведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	60	obl	_	_
+72	фактов	факт	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	71	nmod	_	_
+73	жизни	жизнь	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	72	nmod	_	SpaceAfter=No
+74	»	»	PUNCT	_	_	48	punct	_	SpaceAfter=No
+75	.	.	PUNCT	_	_	31	punct	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-4
+# genre = nonfiction-academic-encycl
+# text = По-разному возникает замысел произведения у разных писателей.
+1	По-разному	по-разному	ADV	_	Degree=Pos	2	advmod	_	_
+2	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+3	замысел	замысел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+4	произведения	произведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	у	у	ADP	_	_	7	case	_	_
+6	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	писателей	писатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	obl	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-5
+# genre = nonfiction-academic-encycl
+# text = Зерно знаменитого чеховского рассказа легко угадывается в записной книжке писателя: «Человек в футляре: все у него в футляре.
+1	Зерно	зерно	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	6	nsubj	_	_
+2	знаменитого	знаменитый	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+3	чеховского	чеховский	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
+4	рассказа	рассказ	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	1	nmod	_	_
+5	легко	легко	ADV	_	Degree=Pos	6	advmod	_	_
+6	угадывается	угадываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	feat="Transit=Intr"|_
+7	в	в	ADP	_	_	9	case	_	_
+8	записной	записной	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	9	amod	_	_
+9	книжке	книжка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	6	obl	_	_
+10	писателя	писатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+11	:	:	PUNCT	_	_	13	punct	_	_
+12	«	«	PUNCT	_	_	13	punct	_	SpaceAfter=No
+13	Человек	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	6	parataxis	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	футляре	футляр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+16	:	:	PUNCT	_	_	21	punct	_	_
+17	все	всё	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Tot	21	nsubj	_	_
+18	у	у	ADP	_	_	19	case	_	_
+19	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obl	_	_
+20	в	в	ADP	_	_	21	case	_	_
+21	футляре	футляр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	13	nmod	_	SpaceAfter=No
+22	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-6
+# genre = nonfiction-academic-encycl
+# text = Когда лежал в гробу, казалось, улыбался: нашел идеал».
+1	Когда	когда	SCONJ	_	_	2	mark	_	_
+2	лежал	лежать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	advcl	_	feat="Transit=Intr"|_
+3	в	в	ADP	_	_	4	case	_	_
+4	гробу	гроб	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	feat="Loc2"|SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	_
+6	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	parataxis:discourse	_	feat="Transit=Intr"|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	_
+8	улыбался	улыбаться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	feat="Transit=Intr"|SpaceAfter=No
+9	:	:	PUNCT	_	_	10	punct	_	_
+10	нашел	найти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	parataxis	_	feat="Transit=Tran"|_
+11	идеал	идеал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	obj	_	SpaceAfter=No
+12	»	»	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	.	.	PUNCT	_	_	8	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-7
+# genre = nonfiction-academic-encycl
+# text = К. И. Чуковский (со слов А. А. Блока) сообщал, что «Двенадцать» поэт начал писать со строчки: «Уж я ножичком полосну, полосну!», потому что «эти два «ж» в первой строчке показались ему весьма выразительными».
+1	К.	К	PROPN	_	Abbr=Yes|NameType=Giv	11	nsubj	_	pos="INIT"|_
+2	И.	И	PROPN	_	Abbr=Yes|NameType=Pat	1	flat:name	_	pos="INIT"|_
+3	Чуковский	Чуковский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	1	flat:name	_	_
+4	(	(	PUNCT	_	_	6	punct	_	SpaceAfter=No
+5	со	со	ADP	_	_	6	case	_	_
+6	слов	слово	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	1	parataxis	_	_
+7	А.	А	PROPN	_	Abbr=Yes|NameType=Giv	6	nmod	_	pos="INIT"|_
+8	А.	А	PROPN	_	Abbr=Yes|NameType=Pat	7	flat:name	_	pos="INIT"|_
+9	Блока	Блок	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	7	flat:name	_	SpaceAfter=No
+10	)	)	PUNCT	_	_	6	punct	_	_
+11	сообщал	сообщать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr,Tran"|SpaceAfter=No
+12	,	,	PUNCT	_	_	18	punct	_	_
+13	что	что	SCONJ	_	_	18	mark	_	_
+14	«	«	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	Двенадцать	двенадцать	NUM	_	Case=Acc|NumForm=Word|NumType=Card	19	obj	_	SpaceAfter=No
+16	»	»	PUNCT	_	_	15	punct	_	_
+17	поэт	поэт	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	18	nsubj	_	_
+18	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	11	ccomp	_	feat="Transit=Intr,Tran"|_
+19	писать	писать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	18	xcomp	_	feat="Transit=Tran"|_
+20	со	со	ADP	_	_	21	case	_	_
+21	строчки	строчка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	19	obl	_	SpaceAfter=No
+22	:	:	PUNCT	_	_	27	punct	_	_
+23	«	«	PUNCT	_	_	27	punct	_	SpaceAfter=No
+24	Уж	уж	PART	_	_	27	advmod	_	_
+25	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	27	nsubj	_	_
+26	ножичком	ножичек	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	27	iobj	_	_
+27	полосну	полоснуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	21	parataxis	_	feat="Transit=Tran"|SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	_
+29	полосну	полоснуть	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	27	conj	_	feat="Transit=Tran"|SpaceAfter=No
+30	!	!	PUNCT	_	_	27	punct	_	SpaceAfter=No
+31	»	»	PUNCT	_	_	27	punct	_	SpaceAfter=No
+32	,	,	PUNCT	_	_	44	punct	_	_
+33	потому	потому	ADV	_	Degree=Pos|ExtPos=SCONJ|PronType=Dem	44	mark	_	pos="ADVPRO"|_
+34	что	что	SCONJ	_	_	33	fixed	_	_
+35	«	«	PUNCT	_	_	44	punct	_	SpaceAfter=No
+36	эти	этот	DET	_	Case=Nom|Number=Plur|PronType=Dem	37	det	_	_
+37	два	два	NUM	_	Case=Nom|Gender=Neut|NumForm=Word|NumType=Card	39	nummod:gov	_	_
+38	«	«	PUNCT	_	_	39	punct	_	SpaceAfter=No
+39	ж	ж	NOUN	_	InflClass=Ind	44	nsubj	_	SpaceAfter=No
+40	»	»	PUNCT	_	_	39	punct	_	_
+41	в	в	ADP	_	_	43	case	_	_
+42	первой	первый	ADJ	_	Case=Loc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	43	amod	_	pos="ANUM"|_
+43	строчке	строчка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	44	obl	_	_
+44	показались	показаться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	18	advcl	_	feat="Transit=Intr"|_
+45	ему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	44	iobj	_	_
+46	весьма	весьма	ADV	_	Degree=Pos	47	advmod	_	_
+47	выразительными	выразительный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	44	xcomp	_	SpaceAfter=No
+48	»	»	PUNCT	_	_	44	punct	_	SpaceAfter=No
+49	.	.	PUNCT	_	_	11	punct	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-8
+# genre = nonfiction-academic-encycl
+# text = Примеры можно умножить, но следует помнить, что перед нами тайна -- и вполне разгадать ее мы никогда не сможем.
+1	Примеры	пример	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	3	obj	_	_
+2	можно	можно	VERB	_	_	0	root	_	pos="PRED"|_
+3	умножить	умножить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	2	csubj	_	feat="Transit=Tran"|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	_
+5	но	но	CCONJ	_	_	6	cc	_	_
+6	следует	следовать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	conj	_	feat="Transit=Intr"|_
+7	помнить	помнить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	6	csubj	_	feat="Transit=Intr,Tran"|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	_
+9	что	что	SCONJ	_	_	11	mark	_	_
+10	перед	перед	ADP	_	_	11	case	_	_
+11	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	7	ccomp	_	_
+12	тайна	тайна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	11	nsubj	_	_
+13	--	--	PUNCT	_	_	21	punct	_	_
+14	и	и	CCONJ	_	_	21	cc	_	_
+15	вполне	вполне	ADV	_	Degree=Pos	16	advmod	_	_
+16	разгадать	разгадать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	21	xcomp	_	feat="Transit=Tran"|_
+17	ее	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	obj	_	_
+18	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	_
+19	никогда	никогда	ADV	_	Degree=Pos|PronType=Neg	21	advmod	_	pos="ADVPRO"|_
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	_
+21	сможем	смочь	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin|Voice=Act	11	conj	_	feat="Transit=Intr"|SpaceAfter=No
+22	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-9
+# genre = nonfiction-academic-encycl
+# text = Тайна заключена в том невоплощенном позыве к работе, который мучает художника и побуждает его выразить себя.
+1	Тайна	тайна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj:pass	_	_
+2	заключена	заключить	VERB	_	Aspect=Perf|Gender=Fem|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	feat="Transit=Tran"|_
+3	в	в	ADP	_	_	6	case	_	_
+4	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Dem	6	det	_	_
+5	невоплощенном	невоплощенный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	6	amod	_	_
+6	позыве	позыв	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	2	obl	_	_
+7	к	к	ADP	_	_	8	case	_	_
+8	работе	работа	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	6	nmod	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	_
+10	который	который	DET	_	Case=Nom|Gender=Masc|Number=Sing|PronType=Rel	11	nsubj	_	_
+11	мучает	мучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	6	acl:relcl	_	feat="Transit=Tran"|_
+12	художника	художник	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	11	obj	_	_
+13	и	и	CCONJ	_	_	14	cc	_	_
+14	побуждает	побуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	11	conj	_	feat="Transit=Tran"|_
+15	его	он	PRON	_	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	obj	_	_
+16	выразить	выразить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	14	xcomp	_	feat="Transit=Tran"|_
+17	себя	себя	PRON	_	Case=Acc|PronType=Prs|Reflex=Yes	16	obj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-10
+# genre = nonfiction-academic-encycl
+# text = Вот признание Л. Н. Толстого А. А. Фету в ноябрьском письме 1870 г.: «Я тоскую и ничего не пишу, а работаю мучительно.
+1	Вот	вот	PART	_	_	0	root	_	_
+2	признание	признание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	1	nsubj	_	_
+3	Л.	Л	PROPN	_	Abbr=Yes|NameType=Giv	2	nmod	_	pos="INIT"|_
+4	Н.	Н	PROPN	_	Abbr=Yes|NameType=Pat	3	flat:name	_	pos="INIT"|_
+5	Толстого	Толстой	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	_
+6	А.	А	PROPN	_	Abbr=Yes|NameType=Giv	2	nmod	_	pos="INIT"|_
+7	А.	А	PROPN	_	Abbr=Yes|NameType=Pat	6	flat:name	_	pos="INIT"|_
+8	Фету	Фет	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	6	flat:name	_	_
+9	в	в	ADP	_	_	11	case	_	_
+10	ноябрьском	ноябрьский	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	письме	письмо	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	2	nmod	_	_
+12	1870	1870	ADJ	_	NumForm=Digit|NumType=Ord	13	amod	_	pos="ANUM"|_
+13	г.	год	NOUN	_	Abbr=Yes	11	nmod	_	SpaceAfter=No
+14	:	:	PUNCT	_	_	17	punct	_	_
+15	«	«	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	17	nsubj	_	_
+17	тоскую	тосковать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	feat="Transit=Intr"|_
+18	и	и	CCONJ	_	_	21	cc	_	_
+19	ничего	ничто	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Neg	21	obj	_	_
+20	не	не	PART	_	Polarity=Neg	21	advmod	_	_
+21	пишу	писать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	feat="Transit=Tran"|SpaceAfter=No
+22	,	,	PUNCT	_	_	24	punct	_	_
+23	а	а	CCONJ	_	_	24	cc	_	_
+24	работаю	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	17	conj	_	feat="Transit=Intr"|_
+25	мучительно	мучительно	ADV	_	Degree=Pos	24	advmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-11
+# genre = nonfiction-academic-encycl
+# text = Вы не можете себе представить, как мне трудна эта предварительная работа глубокой пахоты того поля, на котором я принужден сеять.
+1	Вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2|PronType=Prs	3	nsubj	_	_
+2	не	не	PART	_	Polarity=Neg	3	advmod	_	_
+3	можете	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+4	себе	себя	PRON	_	Case=Dat|PronType=Prs|Reflex=Yes	5	iobj	_	_
+5	представить	представить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	3	xcomp	_	feat="Transit=Tran"|SpaceAfter=No
+6	,	,	PUNCT	_	_	9	punct	_	_
+7	как	как	ADV	_	Degree=Pos|PronType=Rel	9	advmod	_	pos="ADVPRO"|_
+8	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1|PronType=Prs	9	iobj	_	_
+9	трудна	трудный	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	5	ccomp	_	_
+10	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	12	det	_	_
+11	предварительная	предварительный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	12	amod	_	_
+12	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	9	nsubj	_	_
+13	глубокой	глубокий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	пахоты	пахота	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	12	nmod	_	_
+15	того	тот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	16	det	_	_
+16	поля	поле	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	14	nmod	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	21	punct	_	_
+18	на	на	ADP	_	_	19	case	_	_
+19	котором	который	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	21	obl	_	_
+20	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	21	nsubj:pass	_	_
+21	принужден	принудить	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	16	acl:relcl	_	feat="Transit=Tran"|_
+22	сеять	сеять	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	21	xcomp	_	feat="Transit=Intr"|SpaceAfter=No
+23	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-12
+# genre = nonfiction-academic-encycl
+# text = Обдумать и передумать все, что может случиться со всеми будущими людьми предстоящего сочинения, очень большого, и обдумать мильоны возможных сочетаний для того, чтобы выбрать из них 1/1 000 000, ужасно трудно.
+1	Обдумать	обдумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	38	csubj	_	feat="Transit=Tran"|_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	передумать	передумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	feat="Transit=Tran"|_
+4	все	всё	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Tot	1	obj	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	7	punct	_	_
+6	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	7	nsubj	_	_
+7	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	acl:relcl	_	feat="Transit=Intr"|_
+8	случиться	случиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	7	xcomp	_	feat="Transit=Intr"|_
+9	со	со	ADP	_	_	12	case	_	_
+10	всеми	весь	DET	_	Case=Ins|Number=Plur|PronType=Tot	12	det	_	_
+11	будущими	будущий	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	12	amod	_	_
+12	людьми	человек	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	8	obl	_	_
+13	предстоящего	предстоящий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	_
+14	сочинения	сочинение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	17	punct	_	_
+16	очень	очень	ADV	_	Degree=Pos	17	advmod	_	_
+17	большого	большой	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	14	amod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	обдумать	обдумать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	1	conj	_	feat="Transit=Tran"|_
+21	мильоны	мильон	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	20	obj	_	_
+22	возможных	возможный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	сочетаний	сочетание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	21	nmod	_	_
+24	для	для	ADP	_	_	25	case	_	_
+25	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	20	obl	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	чтобы	чтобы	SCONJ	_	Mood=Cnd	28	mark	_	_
+28	выбрать	выбрать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	25	advcl	_	feat="Transit=Tran"|_
+29	из	из	ADP	_	_	30	case	_	_
+30	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	28	obl	_	_
+31	1	1	NUM	_	NumForm=Digit|NumType=Card	28	obj	_	pos="ANUM"|SpaceAfter=No
+32	/	/	PUNCT	_	_	33	punct	_	SpaceAfter=No
+33	1	1	NUM	_	NumForm=Digit|NumType=Card	31	nmod	_	pos="ANUM"|_
+34	000	000	NUM	_	NumForm=Digit|NumType=Card	33	list	_	_
+35	000	000	NUM	_	NumForm=Digit|NumType=Card	31	nmod	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	1	punct	_	_
+37	ужасно	ужасно	ADV	_	Degree=Pos	38	advmod	_	_
+38	трудно	трудный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	pos="PRED"|SpaceAfter=No
+39	.	.	PUNCT	_	_	38	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-13
+# genre = nonfiction-academic-encycl
+# text = И этим я занят».
+1	И	и	CCONJ	_	_	4	cc	_	_
+2	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Dem	4	iobj	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj:pass	_	_
+4	занят	занять	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	feat="Transit=Tran"|SpaceAfter=No
+5	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-14
+# genre = nonfiction-academic-encycl
+# text = Замысел может быть ясно сформулирован.
+1	Замысел	замысел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj	_	_
+2	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+3	быть	быть	AUX	_	VerbForm=Inf|Voice=Act	5	aux:pass	_	feat="Transit=Intr"|_
+4	ясно	ясно	ADV	_	Degree=Pos	5	advmod	_	_
+5	сформулирован	сформулировать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	2	xcomp	_	feat="Transit=Tran"|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-15
+# genre = nonfiction-academic-encycl
+# text = Известно, как отчетливо сознавал свои задачи В. В. Маяковский (см. его статью «Как делать стихи»).
+1	Известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	pos="PRED"|SpaceAfter=No
+2	,	,	PUNCT	_	_	5	punct	_	_
+3	как	как	ADV	_	Degree=Pos|PronType=Rel	4	advmod	_	pos="ADVPRO"|_
+4	отчетливо	отчетливо	ADV	_	Degree=Pos	5	advmod	_	_
+5	сознавал	сознавать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	1	csubj	_	feat="Transit=Tran"|_
+6	свои	свой	DET	_	Animacy=Inan|Case=Acc|Number=Plur|Poss=Yes|PronType=Prs|Reflex=Yes	7	det	_	_
+7	задачи	задача	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	5	obj	_	_
+8	В.	В	PROPN	_	Abbr=Yes|NameType=Giv	5	nsubj	_	pos="INIT"|_
+9	В.	В	PROPN	_	Abbr=Yes|NameType=Pat	8	flat:name	_	pos="INIT"|_
+10	Маяковский	Маяковский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	8	flat:name	_	_
+11	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	см.	смотреть	VERB	_	Abbr=Yes	5	parataxis	_	_
+13	его	его	DET	_	Poss=Yes|PronType=Prs	14	det	_	_
+14	статью	статья	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	12	obj	_	_
+15	«	«	PUNCT	_	_	17	punct	_	SpaceAfter=No
+16	Как	как	ADV	_	Degree=Pos|PronType=Rel	17	advmod	_	pos="ADVPRO"|_
+17	делать	делать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	14	appos	_	feat="Transit=Tran"|_
+18	стихи	стихи	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	17	obj	_	SpaceAfter=No
+19	»	»	PUNCT	_	_	17	punct	_	SpaceAfter=No
+20	)	)	PUNCT	_	_	12	punct	_	SpaceAfter=No
+21	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-16
+# genre = nonfiction-academic-encycl
+# text = Но в художественном произведении «каждая мысль, выраженная словами особо, теряет свой смысл, страшно понижается, когда берется одна из того сцепления, в котором она находится» (письмо Л. Н. Толстого Н. Н. Страхову 23 апреля 1876 г.).
+1	Но	но	CCONJ	_	_	13	cc	_	_
+2	в	в	ADP	_	_	4	case	_	_
+3	художественном	художественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	произведении	произведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	13	obl	_	_
+5	«	«	PUNCT	_	_	13	punct	_	SpaceAfter=No
+6	каждая	каждый	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Tot	7	det	_	_
+7	мысль	мысль	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	nsubj	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	выраженная	выразить	VERB	_	Aspect=Perf|Case=Nom|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	acl	_	feat="Transit=Tran"|_
+10	словами	слово	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	9	obl:agent	_	_
+11	особо	особо	ADV	_	Degree=Pos	9	advmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	9	punct	_	_
+13	теряет	терять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Tran"|_
+14	свой	свой	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	15	det	_	_
+15	смысл	смысл	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	13	obj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	18	punct	_	_
+17	страшно	страшно	ADV	_	Degree=Pos	18	advmod	_	_
+18	понижается	понижаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	13	conj	_	feat="Transit=Intr"|SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	когда	когда	SCONJ	_	_	21	mark	_	_
+21	берется	браться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	advcl	_	feat="Transit=Intr"|_
+22	одна	один	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Ind	21	nsubj	_	_
+23	из	из	ADP	_	_	25	case	_	_
+24	того	тот	DET	_	Case=Gen|Gender=Neut|Number=Sing|PronType=Dem	25	det	_	_
+25	сцепления	сцепление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	22	nmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	30	punct	_	_
+27	в	в	ADP	_	_	28	case	_	_
+28	котором	который	DET	_	Case=Loc|Gender=Neut|Number=Sing|PronType=Rel	30	obl	_	_
+29	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	30	nsubj	_	_
+30	находится	находиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	25	acl:relcl	_	feat="Transit=Intr"|SpaceAfter=No
+31	»	»	PUNCT	_	_	13	punct	_	_
+32	(	(	PUNCT	_	_	33	punct	_	SpaceAfter=No
+33	письмо	письмо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	13	parataxis	_	_
+34	Л.	Л	PROPN	_	Abbr=Yes|NameType=Giv	33	nmod	_	pos="INIT"|_
+35	Н.	Н	PROPN	_	Abbr=Yes|NameType=Pat	34	flat:name	_	pos="INIT"|_
+36	Толстого	Толстой	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	34	flat:name	_	_
+37	Н.	Н	PROPN	_	Abbr=Yes|NameType=Giv	33	nmod	_	pos="INIT"|_
+38	Н.	Н	PROPN	_	Abbr=Yes|NameType=Pat	37	flat:name	_	pos="INIT"|_
+39	Страхову	Страхов	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|NameType=Sur|Number=Sing	37	flat:name	_	_
+40	23	23	ADJ	_	NumForm=Digit|NumType=Ord	33	nmod	_	pos="ANUM"|_
+41	апреля	апрель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	flat	_	_
+42	1876	1876	ADJ	_	NumForm=Digit|NumType=Ord	43	amod	_	pos="ANUM"|_
+43	г.	год	NOUN	_	Abbr=Yes	40	nmod	_	SpaceAfter=No
+44	)	)	PUNCT	_	_	33	punct	_	SpaceAfter=No
+45	.	.	PUNCT	_	_	13	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-17
+# genre = nonfiction-academic-encycl
+# text = В неисчерпаемости художественного восприятия -- еще одно отличие замысла от воплощения.
+1	В	в	ADP	_	_	2	case	_	_
+2	неисчерпаемости	неисчерпаемость	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	0	root	_	_
+3	художественного	художественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	4	amod	_	_
+4	восприятия	восприятие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	2	nmod	_	_
+5	--	--	PUNCT	_	_	8	punct	_	_
+6	еще	еще	ADV	_	Degree=Pos	7	advmod	_	_
+7	одно	один	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	8	nummod	_	pos="ANUM"|_
+8	отличие	отличие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	2	nsubj	_	_
+9	замысла	замысел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+10	от	от	ADP	_	_	11	case	_	_
+11	воплощения	воплощение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-18
+# genre = nonfiction-academic-encycl
+# text = Это нужно иметь в виду, когда встречаешься с авторской интерпретацией художественного текста.
+1	Это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing|PronType=Dem	3	obj	_	_
+2	нужно	нужный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	0	root	_	pos="PRED"|_
+3	иметь	иметь	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	2	csubj	_	feat="Transit=Tran"|_
+4	в	в	ADP	_	ExtPos=ADV	3	advmod	_	_
+5	виду	вид	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	4	fixed	_	feat="Loc2"|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	когда	когда	SCONJ	_	_	8	mark	_	_
+8	встречаешься	встречаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Mid	3	advcl	_	feat="Transit=Intr"|_
+9	с	с	ADP	_	_	11	case	_	_
+10	авторской	авторский	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	11	amod	_	_
+11	интерпретацией	интерпретация	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	8	obl	_	_
+12	художественного	художественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	текста	текст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-19
+# genre = nonfiction-academic-encycl
+# text = Писатель иногда рассказывает о замысле законченного произведения, например, в статье «По поводу «Отцов и детей» (1868--1869) Тургенев вспоминает, как в 1860 г. был задуман его роман.
+1	Писатель	писатель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	3	nsubj	_	_
+2	иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	3	advmod	_	pos="ADVPRO"|_
+3	рассказывает	рассказывать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+4	о	о	ADP	_	_	5	case	_	_
+5	замысле	замысел	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	3	obl	_	_
+6	законченного	закончить	VERB	_	Aspect=Perf|Case=Gen|Gender=Neut|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	7	amod	_	feat="Transit=Tran"|_
+7	произведения	произведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	27	punct	_	_
+9	например	например	ADV	_	_	27	parataxis:discourse	_	pos="PARENTH"|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	статье	статья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	27	obl	_	_
+13	«	«	PUNCT	_	_	17	punct	_	SpaceAfter=No
+14	По	по	ADP	_	ExtPos=ADP	17	case	_	_
+15	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	14	fixed	_	_
+16	«	«	PUNCT	_	_	17	punct	_	SpaceAfter=No
+17	Отцов	отец	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	appos	_	_
+18	и	и	CCONJ	_	_	19	cc	_	_
+19	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	17	conj	_	SpaceAfter=No
+20	»	»	PUNCT	_	_	17	punct	_	_
+21	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+22	1868	1868	ADJ	_	NumForm=Digit|NumType=Ord	12	parataxis	_	pos="ANUM"|SpaceAfter=No
+23	--	--	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	1869	1869	ADJ	_	NumForm=Digit|NumType=Ord	22	nmod	_	pos="ANUM"|SpaceAfter=No
+25	)	)	PUNCT	_	_	22	punct	_	_
+26	Тургенев	Тургенев	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	27	nsubj	_	_
+27	вспоминает	вспоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	feat="Transit=Intr,Tran"|SpaceAfter=No
+28	,	,	PUNCT	_	_	34	punct	_	_
+29	как	как	SCONJ	_	_	34	mark	_	_
+30	в	в	ADP	_	_	32	case	_	_
+31	1860	1860	ADJ	_	NumForm=Digit|NumType=Ord	32	amod	_	pos="ANUM"|_
+32	г.	год	NOUN	_	Abbr=Yes	34	obl:tmod	_	_
+33	был	быть	AUX	_	Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	34	aux:pass	_	feat="Transit=Intr"|_
+34	задуман	задумать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	27	ccomp	_	feat="Transit=Tran"|_
+35	его	его	DET	_	Poss=Yes|PronType=Prs	36	det	_	_
+36	роман	роман	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	34	nsubj:pass	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-21
+# genre = nonfiction-academic-encycl
+# text = Так, М. Горький, не до конца принявший сценическое воплощение Луки («На дне») Москвиным в Художественном театре, дает свое толкование пьесы и его героев.
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	24	parataxis:discourse	_	pos="PARENTH"|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	М.	М	PROPN	_	Abbr=Yes|NameType=Giv	24	nsubj	_	pos="INIT"|_
+4	Горький	Горький	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	3	flat:name	_	SpaceAfter=No
+5	,	,	PUNCT	_	_	9	punct	_	_
+6	не	не	PART	_	Polarity=Neg	8	advmod	_	_
+7	до	до	ADP	_	_	8	case	_	_
+8	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	9	obl	_	_
+9	принявший	принять	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	3	acl	_	feat="Transit=Tran"|_
+10	сценическое	сценический	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	11	amod	_	_
+11	воплощение	воплощение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	9	obj	_	_
+12	Луки	Лука	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	11	nmod	_	_
+13	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+14	«	«	PUNCT	_	_	16	punct	_	SpaceAfter=No
+15	На	на	ADP	_	_	16	case	_	_
+16	дне	день	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	parataxis	_	SpaceAfter=No
+17	»	»	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	)	)	PUNCT	_	_	16	punct	_	_
+19	Москвиным	Москвин	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	11	nmod	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	Художественном	художественный	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	театре	театр	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	9	punct	_	_
+24	дает	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Tran"|_
+25	свое	свой	DET	_	Case=Acc|Gender=Neut|Number=Sing|Poss=Yes|PronType=Prs|Reflex=Yes	26	det	_	_
+26	толкование	толкование	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	24	obj	_	_
+27	пьесы	пьеса	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+28	и	и	CCONJ	_	_	30	cc	_	_
+29	его	его	DET	_	Poss=Yes|PronType=Prs	30	det	_	_
+30	героев	герой	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	27	conj	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	24	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-23
+# genre = nonfiction-academic-encycl
+# text = Подобные авторские высказывания очень важны -- но все же как одно (пусть и весьма авторитетное), не единственное из возможных пониманий законченного текста.
+1	Подобные	подобный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+2	авторские	авторский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	высказывания	высказывание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	_
+4	очень	очень	ADV	_	Degree=Pos	5	advmod	_	_
+5	важны	важный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+6	--	--	PUNCT	_	_	11	punct	_	_
+7	но	но	CCONJ	_	_	11	cc	_	_
+8	все	всё	ADV	_	Degree=Pos|ExtPos=ADV|PronType=Tot	11	advmod	_	pos="ADVPRO"|_
+9	же	же	PART	_	_	8	fixed	_	_
+10	как	как	SCONJ	_	_	11	case	_	_
+11	одно	один	NUM	_	Case=Nom|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	5	conj	_	pos="ANUM"|_
+12	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+13	пусть	пусть	SCONJ	_	_	16	mark	_	_
+14	и	и	PART	_	_	16	advmod	_	_
+15	весьма	весьма	ADV	_	Degree=Pos	16	advmod	_	_
+16	авторитетное	авторитетный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	parataxis	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	20	punct	_	_
+19	не	не	PART	_	Polarity=Neg	20	advmod	_	_
+20	единственное	единственный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	11	conj	_	_
+21	из	из	ADP	_	_	23	case	_	_
+22	возможных	возможный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	23	amod	_	_
+23	пониманий	понимание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	_
+24	законченного	закончить	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	25	amod	_	feat="Transit=Tran"|_
+25	текста	текст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	23	nmod	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	5	punct	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-24
+# genre = nonfiction-academic-encycl
+# text = В ходе работы несколько замыслов может накладываться друг на друга, воплощаясь в одном произведении.
+1	В	в	ADP	_	ExtPos=ADP	3	case	_	_
+2	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	1	fixed	_	_
+3	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	obl	_	_
+4	несколько	несколько	NUM	_	Case=Nom|NumForm=Word|NumType=Card	5	nummod:gov	_	_
+5	замыслов	замысел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	6	nsubj	_	_
+6	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+7	накладываться	накладываться	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Mid	6	xcomp	_	feat="Transit=Intr"|_
+8	друг	друг	PRON	_	Case=Nom|ExtPos=PRON|PronType=Rcp	7	obl	_	_
+9	на	на	ADP	_	ExtPos=ADP	8	case	_	_
+10	друга	друг	PRON	_	Case=Acc|PronType=Rcp	8	fixed	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	12	punct	_	_
+12	воплощаясь	воплощаться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	7	advcl	_	feat="Transit=Intr"|_
+13	в	в	ADP	_	_	15	case	_	_
+14	одном	один	NUM	_	Case=Loc|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	15	nummod	_	pos="ANUM"|_
+15	произведении	произведение	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	SpaceAfter=No
+16	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-25
+# genre = nonfiction-academic-encycl
+# text = Например, из первоначально задуманного романа «Пьяненькие» («картина семейств, воспитание детей в этой обстановке и проч.») и начатой в Висбадене в 1865 г. повести («психологический отчет одного преступления») возникает роман «Преступление и наказание».
+1	Например	например	ADV	_	_	40	parataxis:discourse	_	pos="PARENTH"|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	_
+3	из	из	ADP	_	_	6	case	_	_
+4	первоначально	первоначально	ADV	_	Degree=Pos	5	advmod	_	_
+5	задуманного	задумать	VERB	_	Aspect=Perf|Case=Gen|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	acl	_	feat="Transit=Tran"|_
+6	романа	роман	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	40	obl	_	_
+7	«	«	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	Пьяненькие	пьяненький	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	appos	_	SpaceAfter=No
+9	»	»	PUNCT	_	_	8	punct	_	_
+10	(	(	PUNCT	_	_	12	punct	_	SpaceAfter=No
+11	«	«	PUNCT	_	_	12	punct	_	SpaceAfter=No
+12	картина	картина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	parataxis	_	_
+13	семейств	семейство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	12	nmod	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	воспитание	воспитание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	conj	_	_
+16	детей	ребенок	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	15	nmod	_	_
+17	в	в	ADP	_	_	19	case	_	_
+18	этой	этот	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Dem	19	det	_	_
+19	обстановке	обстановка	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	15	nmod	_	_
+20	и	и	CCONJ	_	_	21	cc	_	_
+21	проч.	прочий	DET	_	Abbr=Yes|PronType=Tot	12	conj	_	SpaceAfter=No
+22	»	»	PUNCT	_	_	12	punct	_	SpaceAfter=No
+23	)	)	PUNCT	_	_	12	punct	_	_
+24	и	и	CCONJ	_	_	31	cc	_	_
+25	начатой	начать	VERB	_	Aspect=Perf|Case=Gen|Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	31	acl	_	feat="Transit=Tran"|_
+26	в	в	ADP	_	_	27	case	_	_
+27	Висбадене	Висбаден	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|NameType=Geo|Number=Sing	25	obl	_	_
+28	в	в	ADP	_	_	30	case	_	_
+29	1865	1865	ADJ	_	NumForm=Digit|NumType=Ord	30	amod	_	pos="ANUM"|_
+30	г.	год	NOUN	_	Abbr=Yes	25	obl:tmod	_	_
+31	повести	повесть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	6	conj	_	_
+32	(	(	PUNCT	_	_	35	punct	_	SpaceAfter=No
+33	«	«	PUNCT	_	_	35	punct	_	SpaceAfter=No
+34	психологический	психологический	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	35	amod	_	_
+35	отчет	отчет	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	31	parataxis	_	_
+36	одного	один	NUM	_	Case=Gen|Gender=Neut|Number=Sing|NumForm=Word|NumType=Card	37	nummod	_	pos="ANUM"|_
+37	преступления	преступление	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	35	nmod	_	SpaceAfter=No
+38	»	»	PUNCT	_	_	35	punct	_	SpaceAfter=No
+39	)	)	PUNCT	_	_	35	punct	_	_
+40	возникает	возникать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+41	роман	роман	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	40	nsubj	_	_
+42	«	«	PUNCT	_	_	43	punct	_	SpaceAfter=No
+43	Преступление	преступление	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	41	appos	_	_
+44	и	и	CCONJ	_	_	45	cc	_	_
+45	наказание	наказание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	43	conj	_	SpaceAfter=No
+46	»	»	PUNCT	_	_	43	punct	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	40	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-26
+# genre = nonfiction-academic-encycl
+# text = Может быть и наоборот -- Достоевский не написал романа «Житие великого грешника», но из предварительных набросков к нему выросли «Бесы», «Подросток» и «Братья Карамазовы».
+1	Может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+2	быть	быть	AUX	_	VerbForm=Inf|Voice=Act	4	cop	_	feat="Transit=Intr"|_
+3	и	и	PART	_	_	4	advmod	_	_
+4	наоборот	наоборот	ADV	_	Degree=Pos	1	xcomp	_	_
+5	--	--	PUNCT	_	_	8	punct	_	_
+6	Достоевский	Достоевский	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	8	nsubj	_	_
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
+8	написал	написать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	feat="Transit=Tran"|_
+9	романа	роман	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	8	obj	_	_
+10	«	«	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	Житие	житие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	9	appos	_	_
+12	великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	13	amod	_	_
+13	грешника	грешник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	11	nmod	_	SpaceAfter=No
+14	»	»	PUNCT	_	_	11	punct	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	22	punct	_	_
+16	но	но	CCONJ	_	_	22	cc	_	_
+17	из	из	ADP	_	_	19	case	_	_
+18	предварительных	предварительный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	набросков	набросок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	22	obl	_	_
+20	к	к	ADP	_	_	21	case	_	_
+21	нему	он	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	nmod	_	_
+22	выросли	вырасти	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	8	conj	_	feat="Transit=Intr"|_
+23	«	«	PUNCT	_	_	24	punct	_	SpaceAfter=No
+24	Бесы	бес	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	SpaceAfter=No
+25	»	»	PUNCT	_	_	24	punct	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	28	punct	_	_
+27	«	«	PUNCT	_	_	28	punct	_	SpaceAfter=No
+28	Подросток	подросток	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	24	conj	_	SpaceAfter=No
+29	»	»	PUNCT	_	_	28	punct	_	_
+30	и	и	CCONJ	_	_	32	cc	_	_
+31	«	«	PUNCT	_	_	32	punct	_	SpaceAfter=No
+32	Братья	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	24	conj	_	_
+33	Карамазовы	Карамазов	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Plur	32	appos	_	SpaceAfter=No
+34	»	»	PUNCT	_	_	32	punct	_	SpaceAfter=No
+35	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-27
+# genre = nonfiction-academic-encycl
+# text = Иногда движение замыслов изменяет жанр произведения -- так было у Л. Н. Толстого.
+1	Иногда	иногда	ADV	_	Degree=Pos|PronType=Tot	4	advmod	_	pos="ADVPRO"|_
+2	движение	движение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	4	nsubj	_	_
+3	замыслов	замысел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+4	изменяет	изменять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Tran"|_
+5	жанр	жанр	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	4	obj	_	_
+6	произведения	произведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	5	nmod	_	_
+7	--	--	PUNCT	_	_	8	punct	_	_
+8	так	так	ADV	_	Degree=Pos|PronType=Dem	4	parataxis	_	pos="ADVPRO"|_
+9	было	быть	AUX	_	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	8	cop	_	feat="Transit=Intr"|_
+10	у	у	ADP	_	_	11	case	_	_
+11	Л.	Л	PROPN	_	Abbr=Yes|NameType=Giv	8	obl	_	pos="INIT"|_
+12	Н.	Н	PROPN	_	Abbr=Yes|NameType=Pat	11	flat:name	_	pos="INIT"|_
+13	Толстого	Толстой	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	11	flat:name	_	SpaceAfter=No
+14	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-28
+# genre = nonfiction-academic-encycl
+# text = Он начал роман «Декабристы», время действия которого почти совпадало с временем работы над этим романом (конец 50-х -- начало 60-х гг.).
+1	Он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	начал	начать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Tran"|_
+3	роман	роман	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+4	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	Декабристы	декабрист	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	3	appos	_	SpaceAfter=No
+6	»	»	PUNCT	_	_	5	punct	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	12	punct	_	_
+8	время	время	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	12	nsubj	_	_
+9	действия	действие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	_
+10	которого	который	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	9	nmod	_	_
+11	почти	почти	ADV	_	Degree=Pos	12	advmod	_	_
+12	совпадало	совпадать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	acl:relcl	_	feat="Transit=Intr"|_
+13	с	с	ADP	_	_	14	case	_	_
+14	временем	время	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	12	obl:tmod	_	_
+15	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	14	nmod	_	_
+16	над	над	ADP	_	_	18	case	_	_
+17	этим	этот	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	_
+18	романом	роман	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	15	nmod	_	_
+19	(	(	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	конец	конец	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	14	parataxis	_	_
+21	50-х	50-й	ADJ	_	Case=Gen|Number=Plur|NumForm=Combi|NumType=Ord	20	nmod	_	pos="ANUM"|_
+22	--	--	PUNCT	_	_	23	punct	_	_
+23	начало	начало	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	20	nmod	_	_
+24	60-х	60-й	ADJ	_	Case=Gen|Number=Plur|NumForm=Combi|NumType=Ord	25	amod	_	pos="ANUM"|_
+25	гг.	год	NOUN	_	Abbr=Yes	23	nmod	_	SpaceAfter=No
+26	)	)	PUNCT	_	_	20	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-29
+# genre = nonfiction-academic-encycl
+# text = Потом обратился к 1825 г. -- «эпохе заблуждений и несчастий» главного героя (Пьера); далее потребовалось еще раз отступить -- «перенестись к его молодости, и молодость его совпадала со славной для России эпохой 1812 года».
+1	Потом	потом	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	pos="ADVPRO"|_
+2	обратился	обратиться	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	feat="Transit=Intr"|_
+3	к	к	ADP	_	_	5	case	_	_
+4	1825	1825	ADJ	_	NumForm=Digit|NumType=Ord	5	amod	_	pos="ANUM"|_
+5	г.	год	NOUN	_	Abbr=Yes	2	obl:tmod	_	_
+6	--	--	PUNCT	_	_	8	punct	_	_
+7	«	«	PUNCT	_	_	8	punct	_	SpaceAfter=No
+8	эпохе	эпоха	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	5	appos	_	_
+9	заблуждений	заблуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	8	nmod	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	несчастий	несчастие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	9	conj	_	SpaceAfter=No
+12	»	»	PUNCT	_	_	8	punct	_	_
+13	главного	главный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	героя	герой	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	8	nmod	_	_
+15	(	(	PUNCT	_	_	16	punct	_	SpaceAfter=No
+16	Пьера	Пьер	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	14	parataxis	_	SpaceAfter=No
+17	)	)	PUNCT	_	_	16	punct	_	SpaceAfter=No
+18	;	;	PUNCT	_	_	20	punct	_	_
+19	далее	далее	ADV	_	Degree=Cmp	20	advmod	_	_
+20	потребовалось	потребоваться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	feat="Transit=Intr"|_
+21	еще	еще	ADV	_	Degree=Pos	22	advmod	_	_
+22	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	23	obl:tmod	_	_
+23	отступить	отступить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	20	csubj	_	feat="Transit=Intr"|_
+24	--	--	PUNCT	_	_	26	punct	_	_
+25	«	«	PUNCT	_	_	26	punct	_	SpaceAfter=No
+26	перенестись	перенестись	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	23	parataxis	_	feat="Transit=Intr"|_
+27	к	к	ADP	_	_	29	case	_	_
+28	его	его	DET	_	Poss=Yes|PronType=Prs	29	det	_	_
+29	молодости	молодость	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	26	obl	_	SpaceAfter=No
+30	,	,	PUNCT	_	_	34	punct	_	_
+31	и	и	CCONJ	_	_	34	cc	_	_
+32	молодость	молодость	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	34	nsubj	_	_
+33	его	его	DET	_	Poss=Yes|PronType=Prs	32	det	_	_
+34	совпадала	совпадать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	26	conj	_	feat="Transit=Intr"|_
+35	со	со	ADP	_	_	39	case	_	_
+36	славной	славный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	39	amod	_	_
+37	для	для	ADP	_	_	38	case	_	_
+38	России	Россия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|NameType=Geo|Number=Sing	36	nmod	_	_
+39	эпохой	эпоха	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	34	obl	_	_
+40	1812	1812	ADJ	_	NumForm=Digit|NumType=Ord	41	amod	_	pos="ANUM"|_
+41	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	39	nmod	_	SpaceAfter=No
+42	»	»	PUNCT	_	_	26	punct	_	SpaceAfter=No
+43	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-30
+# genre = nonfiction-academic-encycl
+# text = И здесь закончилась работа над романом о герое и началось писание эпопеи о народе, о труднейшем испытании для целой армии, для «роя» (черновое предисловие к «Войне и миру»).
+1	И	и	CCONJ	_	_	3	cc	_	_
+2	здесь	здесь	ADV	_	Degree=Pos|PronType=Dem	3	advmod	_	pos="ADVPRO"|_
+3	закончилась	закончиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	feat="Transit=Intr"|_
+4	работа	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
+5	над	над	ADP	_	_	6	case	_	_
+6	романом	роман	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	4	nmod	_	_
+7	о	о	ADP	_	_	8	case	_	_
+8	герое	герой	NOUN	_	Animacy=Anim|Case=Loc|Gender=Masc|Number=Sing	6	nmod	_	_
+9	и	и	CCONJ	_	_	10	cc	_	_
+10	началось	начаться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	3	conj	_	feat="Transit=Intr"|_
+11	писание	писание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	10	nsubj	_	_
+12	эпопеи	эпопея	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	11	nmod	_	_
+13	о	о	ADP	_	_	14	case	_	_
+14	народе	народ	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	12	nmod	_	SpaceAfter=No
+15	,	,	PUNCT	_	_	18	punct	_	_
+16	о	о	ADP	_	_	18	case	_	_
+17	труднейшем	труднейший	ADJ	_	Case=Loc|Degree=Sup|Gender=Neut|Number=Sing	18	amod	_	_
+18	испытании	испытание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	14	conj	_	_
+19	для	для	ADP	_	_	21	case	_	_
+20	целой	целый	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	21	amod	_	_
+21	армии	армия	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	SpaceAfter=No
+22	,	,	PUNCT	_	_	25	punct	_	_
+23	для	для	ADP	_	_	25	case	_	_
+24	«	«	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	роя	рой	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	21	conj	_	SpaceAfter=No
+26	»	»	PUNCT	_	_	25	punct	_	_
+27	(	(	PUNCT	_	_	29	punct	_	SpaceAfter=No
+28	черновое	черновой	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	29	amod	_	_
+29	предисловие	предисловие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	25	parataxis	_	_
+30	к	к	ADP	_	_	32	case	_	_
+31	«	«	PUNCT	_	_	32	punct	_	SpaceAfter=No
+32	Войне	война	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	29	nmod	_	_
+33	и	и	CCONJ	_	_	34	cc	_	_
+34	миру	мир	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	32	conj	_	SpaceAfter=No
+35	»	»	PUNCT	_	_	32	punct	_	SpaceAfter=No
+36	)	)	PUNCT	_	_	29	punct	_	SpaceAfter=No
+37	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-31
+# genre = nonfiction-academic-encycl
+# text = Как известно, хронологические рамки «Войны и мира» не включают ни 1856 г., ни даже 1825 г.
+1	Как	как	SCONJ	_	_	2	mark	_	_
+2	известно	известный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	12	parataxis:discourse	_	pos="PRED"|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	хронологические	хронологический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	5	amod	_	_
+5	рамки	рамка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	12	nsubj	_	_
+6	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
+7	Войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	7	conj	_	SpaceAfter=No
+10	»	»	PUNCT	_	_	7	punct	_	_
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	_
+12	включают	включать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Tran"|_
+13	ни	ни	CCONJ	_	Polarity=Neg	15	cc	_	_
+14	1856	1856	ADJ	_	NumForm=Digit|NumType=Ord	15	amod	_	pos="ANUM"|_
+15	г.	год	NOUN	_	Abbr=Yes	12	obj	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	20	punct	_	_
+17	ни	ни	CCONJ	_	Polarity=Neg	20	cc	_	_
+18	даже	даже	PART	_	_	19	advmod	_	_
+19	1825	1825	ADJ	_	NumForm=Digit|NumType=Ord	20	amod	_	pos="ANUM"|_
+20	г.	год	NOUN	_	Abbr=Yes	15	conj	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-32
+# genre = nonfiction-academic-encycl
+# text = Весьма часто исследователи пытаются ответить на вопрос, почему так, а не иначе менялся замысел в ходе работы, почему что-то отбрасывалось, а что-то добавлялось.
+1	Весьма	весьма	ADV	_	Degree=Pos	2	advmod	_	_
+2	часто	часто	ADV	_	Degree=Pos	4	advmod	_	_
+3	исследователи	исследователь	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	4	nsubj	_	_
+4	пытаются	пытаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	feat="Transit=Intr"|_
+5	ответить	ответить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	4	xcomp	_	feat="Transit=Intr"|_
+6	на	на	ADP	_	_	7	case	_	_
+7	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	5	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	15	punct	_	_
+9	почему	почему	ADV	_	Degree=Pos|PronType=Rel	15	advmod	_	pos="ADVPRO"|_
+10	так	так	ADV	_	Degree=Pos|PronType=Dem	15	advmod	_	pos="ADVPRO"|SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	а	а	CCONJ	_	_	14	cc	_	_
+13	не	не	PART	_	Polarity=Neg	14	advmod	_	_
+14	иначе	иначе	ADV	_	Degree=Pos|PronType=Tot	10	conj	_	pos="ADVPRO"|_
+15	менялся	меняться	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	acl	_	feat="Transit=Intr"|_
+16	замысел	замысел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	15	nsubj	_	_
+17	в	в	ADP	_	ExtPos=ADP	19	case	_	_
+18	ходе	ход	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	fixed	_	_
+19	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	15	obl	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	23	punct	_	_
+21	почему	почему	ADV	_	Degree=Pos|PronType=Rel	23	advmod	_	pos="ADVPRO"|_
+22	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	23	nsubj:pass	_	_
+23	отбрасывалось	отбрасывать	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	15	conj	_	feat="Transit=Tran"|SpaceAfter=No
+24	,	,	PUNCT	_	_	27	punct	_	_
+25	а	а	CCONJ	_	_	27	cc	_	_
+26	что-то	что-то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Ind	27	nsubj:pass	_	_
+27	добавлялось	добавлять	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	15	conj	_	feat="Transit=Tran"|SpaceAfter=No
+28	.	.	PUNCT	_	_	4	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-33
+# genre = nonfiction-academic-encycl
+# text = Ответ дают не воспоминания современников, не дневники и не письма, а творческие рукописи писателя.
+1	Ответ	ответ	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	2	obj	_	_
+2	дают	давать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Tran"|_
+3	не	не	PART	_	Polarity=Neg	4	advmod	_	_
+4	воспоминания	воспоминание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	2	nsubj	_	_
+5	современников	современник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	_
+7	не	не	PART	_	Polarity=Neg	8	advmod	_	_
+8	дневники	дневник	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	4	conj	_	_
+9	и	и	CCONJ	_	_	11	cc	_	_
+10	не	не	PART	_	Polarity=Neg	11	advmod	_	_
+11	письма	письмо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	conj	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	а	а	CCONJ	_	_	15	cc	_	_
+14	творческие	творческий	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	15	amod	_	_
+15	рукописи	рукопись	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	4	conj	_	_
+16	писателя	писатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	15	nmod	_	SpaceAfter=No
+17	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-34
+# genre = nonfiction-academic-encycl
+# text = От первых набросков начала произведения (их может быть много -- сохранилось, например, 15 вариантов начала «Войны и мира») до окончательного текста рукописи фиксируют работу писателя.
+1	От	от	ADP	_	_	3	case	_	_
+2	первых	первый	ADJ	_	Case=Gen|Number=Plur|NumForm=Word|NumType=Ord	3	amod	_	pos="ANUM"|_
+3	набросков	набросок	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	29	obl	_	_
+4	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	3	nmod	_	_
+5	произведения	произведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	4	nmod	_	_
+6	(	(	PUNCT	_	_	8	punct	_	SpaceAfter=No
+7	их	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	8	nsubj	_	_
+8	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	parataxis	_	feat="Transit=Intr"|_
+9	быть	быть	AUX	_	VerbForm=Inf|Voice=Act	10	cop	_	feat="Transit=Intr"|_
+10	много	много	NUM	_	Case=Nom|NumForm=Word|NumType=Card	8	xcomp	_	_
+11	--	--	PUNCT	_	_	12	punct	_	_
+12	сохранилось	сохраниться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	8	parataxis	_	feat="Transit=Intr"|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	_
+14	например	например	ADV	_	_	12	parataxis:discourse	_	pos="PARENTH"|SpaceAfter=No
+15	,	,	PUNCT	_	_	14	punct	_	_
+16	15	15	NUM	_	NumForm=Digit|NumType=Card	17	nummod:gov	_	_
+17	вариантов	вариант	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nsubj	_	_
+18	начала	начало	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	17	nmod	_	_
+19	«	«	PUNCT	_	_	20	punct	_	SpaceAfter=No
+20	Войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	18	nmod	_	_
+21	и	и	CCONJ	_	_	22	cc	_	_
+22	мира	мир	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	20	conj	_	SpaceAfter=No
+23	»	»	PUNCT	_	_	20	punct	_	SpaceAfter=No
+24	)	)	PUNCT	_	_	8	punct	_	_
+25	до	до	ADP	_	_	27	case	_	_
+26	окончательного	окончательный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	27	amod	_	_
+27	текста	текст	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	29	obl	_	_
+28	рукописи	рукопись	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	27	nmod	_	_
+29	фиксируют	фиксировать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Tran"|_
+30	работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	29	obj	_	_
+31	писателя	писатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	30	nmod	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	29	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-35
+# genre = nonfiction-academic-encycl
+# text = Этапы движения от замысла к воплощению раскрываются в творческой истории произведения.
+1	Этапы	этап	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	7	nsubj	_	_
+2	движения	движение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	1	nmod	_	_
+3	от	от	ADP	_	_	4	case	_	_
+4	замысла	замысел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	2	nmod	_	_
+5	к	к	ADP	_	_	6	case	_	_
+6	воплощению	воплощение	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	2	nmod	_	_
+7	раскрываются	раскрываться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	feat="Transit=Intr"|_
+8	в	в	ADP	_	_	10	case	_	_
+9	творческой	творческий	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	7	obl	_	_
+11	произведения	произведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	10	nmod	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-36
+# genre = nonfiction-academic-encycl
+# text = Для некоторых художников важнейшим этапом работы становится план будущего произведения.
+1	Для	для	ADP	_	_	3	case	_	_
+2	некоторых	некоторый	DET	_	Case=Gen|Number=Plur|PronType=Ind	3	det	_	_
+3	художников	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	obl	_	_
+4	важнейшим	важнейший	ADJ	_	Case=Ins|Degree=Sup|Gender=Masc|Number=Sing	5	amod	_	_
+5	этапом	этап	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	7	xcomp	_	_
+6	работы	работа	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	5	nmod	_	_
+7	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	feat="Transit=Intr"|_
+8	план	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	7	nsubj	_	_
+9	будущего	будущий	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	произведения	произведение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	8	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-37
+# genre = nonfiction-academic-encycl
+# text = Известны пушкинские планы -- прозаические наброски к стихотворным текстам.
+1	Известны	известный	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+2	пушкинские	пушкинский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	3	amod	_	_
+3	планы	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	1	nsubj	_	_
+4	--	--	PUNCT	_	_	6	punct	_	_
+5	прозаические	прозаический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	6	amod	_	_
+6	наброски	набросок	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	3	appos	_	_
+7	к	к	ADP	_	_	9	case	_	_
+8	стихотворным	стихотворный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	9	amod	_	_
+9	текстам	текст	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Plur	6	nmod	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-38
+# genre = nonfiction-academic-encycl
+# text = «Единый план «Ада» есть уже плод высокого гения», -- заметил Пушкин, и его собственные замыслы прояснили в планах будущую архитектонику.
+1	«	«	PUNCT	_	_	9	punct	_	SpaceAfter=No
+2	Единый	единый	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	3	amod	_	_
+3	план	план	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	9	nsubj	_	_
+4	«	«	PUNCT	_	_	5	punct	_	SpaceAfter=No
+5	Ада	ад	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	SpaceAfter=No
+6	»	»	PUNCT	_	_	5	punct	_	_
+7	есть	быть	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	9	cop	_	feat="Transit=Intr"|_
+8	уже	уже	ADV	_	Degree=Pos	9	advmod	_	_
+9	плод	плод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	_
+10	высокого	высокий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	11	amod	_	_
+11	гения	гений	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	9	nmod	_	SpaceAfter=No
+12	»	»	PUNCT	_	_	9	punct	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	--	--	PUNCT	_	_	15	punct	_	_
+15	заметил	заметить	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	9	parataxis	_	feat="Transit=Tran"|_
+16	Пушкин	Пушкин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	15	nsubj	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	22	punct	_	_
+18	и	и	CCONJ	_	_	22	cc	_	_
+19	его	его	DET	_	Poss=Yes|PronType=Prs	21	det	_	_
+20	собственные	собственный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	21	amod	_	_
+21	замыслы	замысел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	22	nsubj	_	_
+22	прояснили	прояснить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	9	conj	_	feat="Transit=Tran"|_
+23	в	в	ADP	_	_	24	case	_	_
+24	планах	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	22	obl	_	_
+25	будущую	будущий	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	26	amod	_	_
+26	архитектонику	архитектоника	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	22	obj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	9	punct	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-39
+# genre = nonfiction-academic-encycl
+# text = Вечной загадкой для читателей и исследователей остаются незаконченные произведения гениев, их невоплощенные замыслы.
+1	Вечной	вечный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	2	amod	_	_
+2	загадкой	загадка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	7	xcomp	_	_
+3	для	для	ADP	_	_	4	case	_	_
+4	читателей	читатель	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	2	nmod	_	_
+5	и	и	CCONJ	_	_	6	cc	_	_
+6	исследователей	исследователь	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	4	conj	_	_
+7	остаются	оставаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	feat="Transit=Intr"|_
+8	незаконченные	незаконченный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	9	amod	_	_
+9	произведения	произведение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nsubj	_	_
+10	гениев	гений	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	_
+12	их	их	DET	_	Poss=Yes|PronType=Prs	14	det	_	_
+13	невоплощенные	невоплощенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	14	amod	_	_
+14	замыслы	замысел	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	conj	_	SpaceAfter=No
+15	.	.	PUNCT	_	_	7	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-40
+# genre = nonfiction-academic-encycl
+# text = Таковы «Мертвые души», задуманные как трилогия и оставшиеся лишь в I томе (сожженный II том -- трагическая часть творческой истории); такова поэма «Кому на Руси жить хорошо» -- с ее цензурными мытарствами и непроясненной композицией.
+1	Таковы	таков	DET	_	Number=Plur|PronType=Dem|Variant=Short	0	root	_	_
+2	«	«	PUNCT	_	_	4	punct	_	SpaceAfter=No
+3	Мертвые	мертвый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	4	amod	_	_
+4	души	душа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	1	nsubj	_	SpaceAfter=No
+5	»	»	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	задуманные	задумать	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	4	acl	_	feat="Transit=Tran"|_
+8	как	как	SCONJ	_	_	9	case	_	_
+9	трилогия	трилогия	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	obl	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	оставшиеся	остаться	VERB	_	Aspect=Perf|Case=Nom|Number=Plur|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	7	conj	_	feat="Transit=Intr"|_
+12	лишь	лишь	PART	_	_	15	advmod	_	_
+13	в	в	ADP	_	_	15	case	_	_
+14	I	I	ADJ	_	NumForm=Roman|NumType=Ord	15	amod	_	pos="ANUM"|_
+15	томе	том	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	11	obl	_	_
+16	(	(	PUNCT	_	_	22	punct	_	SpaceAfter=No
+17	сожженный	сжечь	VERB	_	Aspect=Perf|Case=Nom|Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	19	amod	_	feat="Transit=Tran"
+18	II	II	ADJ	_	NumForm=Roman|NumType=Ord	19	amod	_	pos="ANUM"|_
+19	том	том	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	22	nsubj	_	_
+20	--	--	PUNCT	_	_	19	punct	_	_
+21	трагическая	трагический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	22	amod	_	_
+22	часть	часть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	15	parataxis	_	_
+23	творческой	творческий	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	24	amod	_	_
+24	истории	история	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	22	nmod	_	SpaceAfter=No
+25	)	)	PUNCT	_	_	22	punct	_	SpaceAfter=No
+26	;	;	PUNCT	_	_	27	punct	_	_
+27	такова	таков	DET	_	Gender=Fem|Number=Sing|PronType=Dem|Variant=Short	1	conj	_	_
+28	поэма	поэма	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	27	nsubj	_	_
+29	«	«	PUNCT	_	_	34	punct	_	SpaceAfter=No
+30	Кому	кто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	34	iobj	_	_
+31	на	на	ADP	_	_	32	case	_	_
+32	Руси	Русь	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	34	obl	_	_
+33	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	34	csubj	_	feat="Transit=Intr"|_
+34	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	28	appos	_	pos="PRED"|SpaceAfter=No
+35	»	»	PUNCT	_	_	34	punct	_	_
+36	--	--	PUNCT	_	_	40	punct	_	_
+37	с	с	ADP	_	_	40	case	_	_
+38	ее	ее	DET	_	Poss=Yes|PronType=Prs	40	det	_	_
+39	цензурными	цензурный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	40	amod	_	_
+40	мытарствами	мытарство	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	28	nmod	_	_
+41	и	и	CCONJ	_	_	43	cc	_	_
+42	непроясненной	непроясненный	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	43	amod	_	_
+43	композицией	композиция	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	40	conj	_	SpaceAfter=No
+44	.	.	PUNCT	_	_	1	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-41
+# genre = nonfiction-academic-encycl
+# text = Не написан второй -- предполагавшийся -- том «Братьев Карамазовых» с главным героем Алешей; в отрывках и планах осталась вторая глава поэмы А. А. Блока «Возмездие» (а четвертая глава и эпилог лишь пунктирно намечены).
+1	Не	не	PART	_	Polarity=Neg	2	advmod	_	_
+2	написан	написать	VERB	_	Aspect=Perf|Gender=Masc|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	0	root	_	feat="Transit=Tran"|_
+3	второй	второй	ADJ	_	Case=Nom|Gender=Masc|Number=Sing|NumForm=Word|NumType=Ord	7	amod	_	pos="ANUM"|_
+4	--	--	PUNCT	_	_	5	punct	_	_
+5	предполагавшийся	предполагаться	VERB	_	Aspect=Imp|Case=Nom|Gender=Masc|Number=Sing|Reflex=Yes|Tense=Past|VerbForm=Part|Voice=Act	3	conj	_	feat="Transit=Intr"|_
+6	--	--	PUNCT	_	_	5	punct	_	_
+7	том	том	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	2	nsubj:pass	_	_
+8	«	«	PUNCT	_	_	9	punct	_	SpaceAfter=No
+9	Братьев	брат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	7	nmod	_	_
+10	Карамазовых	Карамазов	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Plur	9	nmod	_	SpaceAfter=No
+11	»	»	PUNCT	_	_	9	punct	_	_
+12	с	с	ADP	_	_	14	case	_	_
+13	главным	главный	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	14	amod	_	_
+14	героем	герой	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	7	nmod	_	_
+15	Алешей	Алеша	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	14	appos	_	SpaceAfter=No
+16	;	;	PUNCT	_	_	21	punct	_	_
+17	в	в	ADP	_	_	18	case	_	_
+18	отрывках	отрывок	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	21	obl	_	_
+19	и	и	CCONJ	_	_	20	cc	_	_
+20	планах	план	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Plur	18	conj	_	_
+21	осталась	остаться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	feat="Transit=Intr"|_
+22	вторая	второй	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	23	amod	_	pos="ANUM"|_
+23	глава	глава	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	21	nsubj	_	_
+24	поэмы	поэма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	23	nmod	_	_
+25	А.	А	PROPN	_	Abbr=Yes|NameType=Giv	24	nmod	_	pos="INIT"|_
+26	А.	А	PROPN	_	Abbr=Yes|NameType=Pat	25	flat:name	_	pos="INIT"|_
+27	Блока	Блок	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	25	flat:name	_	_
+28	«	«	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	Возмездие	возмездие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	23	appos	_	SpaceAfter=No
+30	»	»	PUNCT	_	_	29	punct	_	_
+31	(	(	PUNCT	_	_	39	punct	_	SpaceAfter=No
+32	а	а	CCONJ	_	_	39	cc	_	_
+33	четвертая	четвертый	ADJ	_	Case=Nom|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	34	amod	_	pos="ANUM"|_
+34	глава	глава	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	39	nsubj:pass	_	_
+35	и	и	CCONJ	_	_	36	cc	_	_
+36	эпилог	эпилог	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	34	conj	_	_
+37	лишь	лишь	PART	_	_	38	advmod	_	_
+38	пунктирно	пунктирно	ADV	_	Degree=Pos	39	advmod	_	_
+39	намечены	наметить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	21	parataxis	_	feat="Transit=Tran"|SpaceAfter=No
+40	)	)	PUNCT	_	_	39	punct	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-42
+# genre = nonfiction-academic-encycl
+# text = Закончить эти произведения их творцам помешала смерть.
+1	Закончить	закончить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	6	xcomp	_	feat="Transit=Tran"|_
+2	эти	этот	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Dem	3	det	_	_
+3	произведения	произведение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	1	obj	_	_
+4	их	их	DET	_	Poss=Yes|PronType=Prs	5	det	_	_
+5	творцам	творец	NOUN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Plur	6	iobj	_	_
+6	помешала	помешать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+7	смерть	смерть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-43
+# genre = nonfiction-academic-encycl
+# text = Но есть загадки иного рода -- Пушкин в разное время оставляет работу над «Арапом Петра Великого», «Тазитом», «Дубровским», «Езерским».
+1	Но	но	CCONJ	_	_	2	cc	_	_
+2	есть	быть	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+3	загадки	загадка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	2	nsubj	_	_
+4	иного	иной	DET	_	Case=Gen|Gender=Masc|Number=Sing|PronType=Tot	5	det	_	_
+5	рода	род	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	_
+6	--	--	PUNCT	_	_	11	punct	_	_
+7	Пушкин	Пушкин	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|NameType=Sur|Number=Sing	11	nsubj	_	_
+8	в	в	ADP	_	_	10	case	_	_
+9	разное	разный	ADJ	_	Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	10	amod	_	_
+10	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	11	obl:tmod	_	_
+11	оставляет	оставлять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	2	parataxis	_	feat="Transit=Tran"|_
+12	работу	работа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	11	obj	_	_
+13	над	над	ADP	_	_	15	case	_	_
+14	«	«	PUNCT	_	_	15	punct	_	SpaceAfter=No
+15	Арапом	арап	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	12	nmod	_	_
+16	Петра	Петр	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Giv|Number=Sing	15	nmod	_	_
+17	Великого	великий	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	16	amod	_	SpaceAfter=No
+18	»	»	PUNCT	_	_	15	punct	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	21	punct	_	_
+20	«	«	PUNCT	_	_	21	punct	_	SpaceAfter=No
+21	Тазитом	Тазит	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Giv|Number=Sing	15	conj	_	SpaceAfter=No
+22	»	»	PUNCT	_	_	21	punct	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	25	punct	_	_
+24	«	«	PUNCT	_	_	25	punct	_	SpaceAfter=No
+25	Дубровским	дубровский	ADJ	_	Case=Ins|Degree=Pos|Gender=Masc|Number=Sing	15	conj	_	SpaceAfter=No
+26	»	»	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	_
+28	«	«	PUNCT	_	_	29	punct	_	SpaceAfter=No
+29	Езерским	Езерский	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|NameType=Sur|Number=Sing	15	conj	_	SpaceAfter=No
+30	»	»	PUNCT	_	_	29	punct	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-44
+# genre = nonfiction-academic-encycl
+# text = Если в случае с «Мертвыми душами» и «Кому на Руси жить хорошо» можно строить догадки, что могло бы быть дальше, то незавершенные работы Пушкина задают нам иной вопрос: почему оставлены?
+1	Если	если	SCONJ	_	_	17	mark	_	_
+2	в	в	ADP	_	_	3	case	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	17	obl	_	_
+4	с	с	ADP	_	_	7	case	_	_
+5	«	«	PUNCT	_	_	7	punct	_	SpaceAfter=No
+6	Мертвыми	мертвый	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	7	amod	_	_
+7	душами	душа	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Plur	3	nmod	_	SpaceAfter=No
+8	»	»	PUNCT	_	_	7	punct	_	_
+9	и	и	CCONJ	_	_	15	cc	_	_
+10	«	«	PUNCT	_	_	15	punct	_	SpaceAfter=No
+11	Кому	кто	PRON	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing|PronType=Rel	15	iobj	_	_
+12	на	на	ADP	_	_	13	case	_	_
+13	Руси	Русь	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|NameType=Geo|Number=Sing	15	obl	_	_
+14	жить	жить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	15	csubj	_	feat="Transit=Intr"|_
+15	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	7	conj	_	pos="PRED"|SpaceAfter=No
+16	»	»	PUNCT	_	_	15	punct	_	_
+17	можно	можно	VERB	_	_	31	advcl	_	pos="PRED"|_
+18	строить	строить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	17	csubj	_	feat="Transit=Tran"|_
+19	догадки	догадка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	18	obj	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	_
+21	что	что	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Rel	22	nsubj	_	_
+22	могло	мочь	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	acl	_	feat="Transit=Intr"|_
+23	бы	бы	AUX	_	Mood=Cnd	22	aux	_	_
+24	быть	быть	VERB	_	VerbForm=Inf|Voice=Act	25	xcomp	_	feat="Transit=Intr"|_
+25	дальше	дальше	ADV	_	Degree=Cmp	22	advmod	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	17	punct	_	_
+27	то	то	SCONJ	_	_	31	mark	_	_
+28	незавершенные	незавершенный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	29	amod	_	_
+29	работы	работа	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	31	nsubj	_	_
+30	Пушкина	Пушкин	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|NameType=Sur|Number=Sing	29	nmod	_	_
+31	задают	задавать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Tran"|_
+32	нам	мы	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	31	iobj	_	_
+33	иной	иной	DET	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing|PronType=Tot	34	det	_	_
+34	вопрос	вопрос	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	31	obj	_	SpaceAfter=No
+35	:	:	PUNCT	_	_	37	punct	_	_
+36	почему	почему	ADV	_	Degree=Pos|PronType=Int	37	advmod	_	pos="ADVPRO"|_
+37	оставлены	оставить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	34	appos	_	feat="Transit=Tran"|SpaceAfter=No
+38	?	?	PUNCT	_	_	31	punct	_	_
+
+# sent_id = uch-nauch--encicl_litved--slovar-liter1988_047-45
+# genre = nonfiction-academic-encycl
+# text = В любом случае перед нами тайна художника, тайна творчества.
+1	В	в	ADP	_	_	3	case	_	_
+2	любом	любой	DET	_	Case=Loc|Gender=Masc|Number=Sing|PronType=Tot	3	det	_	_
+3	случае	случай	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	5	obl	_	_
+4	перед	перед	ADP	_	_	5	case	_	_
+5	нами	мы	PRON	_	Case=Ins|Number=Plur|Person=1|PronType=Prs	0	root	_	_
+6	тайна	тайна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	5	nsubj	_	_
+7	художника	художник	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	тайна	тайна	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	conj	_	_
+10	творчества	творчество	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	9	nmod	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	5	punct	_	sent_after='</p>\n</body>\n</root>'
