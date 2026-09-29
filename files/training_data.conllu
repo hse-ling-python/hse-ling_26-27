@@ -1,0 +1,252 @@
+# sent_id = uch-nauch--encicl_phil--encicl94-13
+# genre = nonfiction-academic-encycl
+# text = Но особенно похожи на предложения естественного языка формулы математической логики -- науки, в которой изучается строение точных рассуждений, в первую очередь математических, и при этом используются математические же методы.
+1	Но	но	CCONJ	_	_	3	cc	_	_
+2	особенно	особенно	ADV	_	Degree=Pos	3	advmod	_	_
+3	похожи	похожий	ADJ	_	Degree=Pos|Number=Plur|Variant=Short	0	root	_	_
+4	на	на	ADP	_	_	5	case	_	_
+5	предложения	предложение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	3	obl	_	_
+6	естественного	естественный	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	7	amod	_	_
+7	языка	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	5	nmod	_	_
+8	формулы	формула	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	3	nsubj	_	_
+9	математической	математический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	логики	логика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	8	nmod	_	_
+11	--	--	PUNCT	_	_	12	punct	_	_
+12	науки	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	10	appos	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	16	punct	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	которой	который	DET	_	Case=Loc|Gender=Fem|Number=Sing|PronType=Rel	16	obl	_	_
+16	изучается	изучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	12	acl:relcl	_	feat="Transit=Tran"|_
+17	строение	строение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	16	nsubj:pass	_	_
+18	точных	точный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	_
+19	рассуждений	рассуждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	17	nmod	_	SpaceAfter=No
+20	,	,	PUNCT	_	_	24	punct	_	_
+21	в	в	ADP	_	ExtPos=ADV	24	advmod	_	_
+22	первую	первый	ADJ	_	Case=Acc|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	21	fixed	_	pos="ANUM"|_
+23	очередь	очередь	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	21	fixed	_	_
+24	математических	математический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	19	amod	_	SpaceAfter=No
+25	,	,	PUNCT	_	_	29	punct	_	_
+26	и	и	CCONJ	_	_	29	cc	_	_
+27	при	при	ADP	_	_	28	case	_	_
+28	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing|PronType=Dem	29	obl	_	_
+29	используются	использоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	16	conj	_	feat="Transit=Intr"|_
+30	математические	математический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	32	amod	_	_
+31	же	же	PART	_	_	30	advmod	_	_
+32	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	29	nsubj	_	SpaceAfter=No
+33	.	.	PUNCT	_	_	3	punct	_	_
+
+# sent_id = uch-nauch--encicl_phil--encicl94-14
+# genre = nonfiction-academic-encycl
+# text = Наука эта сравнительно молода: она возникла в XIX в. и бурно развивалась в течение первой половины XX в.
+1	Наука	наука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	nsubj	_	_
+2	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing|PronType=Dem	1	det	_	_
+3	сравнительно	сравнительно	ADV	_	Degree=Pos	4	advmod	_	_
+4	молода	молодой	ADJ	_	Degree=Pos|Gender=Fem|Number=Sing|Variant=Short	0	root	_	SpaceAfter=No
+5	:	:	PUNCT	_	_	7	punct	_	_
+6	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	_
+7	возникла	возникнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	4	parataxis	_	feat="Transit=Intr"|_
+8	в	в	ADP	_	_	10	case	_	_
+9	XIX	XIX	ADJ	_	NumForm=Roman|NumType=Ord	10	amod	_	pos="ANUM"|_
+10	в.	век	NOUN	_	Abbr=Yes	7	obl:tmod	_	_
+11	и	и	CCONJ	_	_	13	cc	_	_
+12	бурно	бурно	ADV	_	Degree=Pos	13	advmod	_	_
+13	развивалась	развиваться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	7	conj	_	feat="Transit=Intr"|_
+14	в	в	ADP	_	ExtPos=ADP	17	case	_	_
+15	течение	течение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	14	fixed	_	_
+16	первой	первый	ADJ	_	Case=Gen|Gender=Fem|Number=Sing|NumForm=Word|NumType=Ord	17	amod	_	pos="ANUM"|_
+17	половины	половина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	13	obl:tmod	_	_
+18	XX	XX	ADJ	_	NumForm=Roman|NumType=Ord	19	amod	_	pos="ANUM"|_
+19	в.	век	NOUN	_	Abbr=Yes	17	nmod	_	_
+
+# sent_id = uch-nauch--encicl_phil--encicl94-15
+# genre = nonfiction-academic-encycl
+# text = Примерно в то же время возникла и развилась абстрактная алгебра -- математическая наука, изучающая всевозможные отношения и всевозможные действия, которые можно производить над чем угодно (а не только над числами и многочленами, как в элементарной алгебре, которую изучают в школе).
+1	Примерно	примерно	ADV	_	Degree=Pos	5	advmod	_	_
+2	в	в	ADP	_	_	5	case	_	_
+3	то	тот	DET	_	Case=Acc|ExtPos=DET|Gender=Neut|Number=Sing|PronType=Dem	5	det	_	_
+4	же	же	PART	_	_	3	fixed	_	_
+5	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	6	obl:tmod	_	_
+6	возникла	возникнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+7	и	и	CCONJ	_	_	8	cc	_	_
+8	развилась	развиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	6	conj	_	feat="Transit=Intr"|_
+9	абстрактная	абстрактный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	алгебра	алгебра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	6	nsubj	_	_
+11	--	--	PUNCT	_	_	13	punct	_	_
+12	математическая	математический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	13	amod	_	_
+13	наука	наука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	10	appos	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	изучающая	изучать	VERB	_	Aspect=Imp|Case=Nom|Gender=Fem|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	13	acl	_	feat="Transit=Tran"|_
+16	всевозможные	всевозможный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	17	amod	_	_
+17	отношения	отношение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	15	obj	_	_
+18	и	и	CCONJ	_	_	20	cc	_	_
+19	всевозможные	всевозможный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	20	amod	_	_
+20	действия	действие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	17	conj	_	SpaceAfter=No
+21	,	,	PUNCT	_	_	23	punct	_	_
+22	которые	который	DET	_	Animacy=Inan|Case=Acc|Number=Plur|PronType=Rel	24	obj	_	_
+23	можно	можно	VERB	_	_	20	acl:relcl	_	pos="PRED"|_
+24	производить	производить	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	23	csubj	_	feat="Transit=Tran"|_
+25	над	над	ADP	_	_	26	case	_	_
+26	чем	что	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing|PronType=Rel	24	obl	_	_
+27	угодно	угодный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	26	obl:pronmod	_	pos="PRED"|_
+28	(	(	PUNCT	_	_	33	punct	_	SpaceAfter=No
+29	а	а	CCONJ	_	_	33	cc	_	_
+30	не	не	PART	_	Polarity=Neg	31	advmod	_	_
+31	только	только	PART	_	_	33	advmod	_	_
+32	над	над	ADP	_	_	33	case	_	_
+33	числами	число	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	26	parataxis	_	_
+34	и	и	CCONJ	_	_	35	cc	_	_
+35	многочленами	многочлен	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	33	conj	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	40	punct	_	_
+37	как	как	SCONJ	_	_	40	case	_	_
+38	в	в	ADP	_	_	40	case	_	_
+39	элементарной	элементарный	ADJ	_	Case=Loc|Degree=Pos|Gender=Fem|Number=Sing	40	amod	_	_
+40	алгебре	алгебра	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	33	nmod	_	SpaceAfter=No
+41	,	,	PUNCT	_	_	43	punct	_	_
+42	которую	который	DET	_	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	43	obj	_	_
+43	изучают	изучать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	40	acl:relcl	_	feat="Transit=Tran"|_
+44	в	в	ADP	_	_	45	case	_	_
+45	школе	школа	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	43	obl	_	SpaceAfter=No
+46	)	)	PUNCT	_	_	33	punct	_	SpaceAfter=No
+47	.	.	PUNCT	_	_	6	punct	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_phil--encicl94-16
+# genre = nonfiction-academic-encycl
+# text = С развитием этих двух наук, а также некоторых других, тесно связанных с ними разделов математики стало возможным применение математических средств для исследования строения естественных языков, и начиная с середины нынешнего столетия математические средства действительно применяются для этой цели.
+1	С	с	ADP	_	_	2	case	_	_
+2	развитием	развитие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	18	obl	_	_
+3	этих	этот	DET	_	Case=Gen|Number=Plur|PronType=Dem	5	det	_	_
+4	двух	два	NUM	_	Case=Gen|Gender=Fem|NumForm=Word|NumType=Card	5	nummod	_	_
+5	наук	наука	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	2	nmod	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	16	punct	_	_
+7	а	а	CCONJ	_	ExtPos=CCONJ	16	cc	_	_
+8	также	также	ADV	_	Degree=Pos|PronType=Dem	7	fixed	_	pos="ADVPRO"|_
+9	некоторых	некоторый	DET	_	Case=Gen|Number=Plur|PronType=Ind	16	det	_	_
+10	других	другой	DET	_	Case=Gen|Number=Plur|PronType=Tot	16	det	_	SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	_
+12	тесно	тесно	ADV	_	Degree=Pos	13	advmod	_	_
+13	связанных	связать	VERB	_	Aspect=Perf|Case=Gen|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	16	acl	_	feat="Transit=Tran"|_
+14	с	с	ADP	_	_	15	case	_	_
+15	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3|PronType=Prs	13	obl	_	_
+16	разделов	раздел	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	5	conj	_	_
+17	математики	математика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	16	nmod	_	_
+18	стало	стать	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+19	возможным	возможный	ADJ	_	Case=Ins|Degree=Pos|Gender=Neut|Number=Sing	18	xcomp	_	_
+20	применение	применение	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	18	nsubj	_	_
+21	математических	математический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	22	amod	_	_
+22	средств	средство	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	20	nmod	_	_
+23	для	для	ADP	_	_	24	case	_	_
+24	исследования	исследование	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	20	nmod	_	_
+25	строения	строение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	24	nmod	_	_
+26	естественных	естественный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	27	amod	_	_
+27	языков	язык	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	25	nmod	_	SpaceAfter=No
+28	,	,	PUNCT	_	_	38	punct	_	_
+29	и	и	CCONJ	_	_	38	cc	_	_
+30	начиная	начинать	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	38	advcl	_	feat="Transit=Intr"|_
+31	с	с	ADP	_	_	32	case	_	_
+32	середины	середина	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	30	obl:tmod	_	_
+33	нынешнего	нынешний	ADJ	_	Case=Gen|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
+34	столетия	столетие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	32	nmod	_	_
+35	математические	математический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	36	amod	_	_
+36	средства	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	38	nsubj	_	_
+37	действительно	действительно	ADV	_	Degree=Pos	38	advmod	_	_
+38	применяются	применяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	18	conj	_	feat="Transit=Intr"|_
+39	для	для	ADP	_	_	41	case	_	_
+40	этой	этот	DET	_	Case=Gen|Gender=Fem|Number=Sing|PronType=Dem	41	det	_	_
+41	цели	цель	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	38	obl	_	SpaceAfter=No
+42	.	.	PUNCT	_	_	18	punct	_	_
+
+# sent_id = uch-nauch--encicl_phil--encicl94-17
+# genre = nonfiction-academic-encycl
+# text = Готовых методов, пригодных для лингвистических приложений, в математике не было, их пришлось создать заново, и образцом для них послужили прежде всего методы математической логики и абстрактной алгебры.
+1	Готовых	готовый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	amod	_	_
+2	методов	метод	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	12	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	_
+4	пригодных	пригодный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	2	acl	_	_
+5	для	для	ADP	_	_	7	case	_	_
+6	лингвистических	лингвистический	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	7	amod	_	_
+7	приложений	приложение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	4	obl	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	4	punct	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	математике	математика	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	12	obl	_	_
+11	не	не	PART	_	Polarity=Neg	12	advmod	_	_
+12	было	быть	VERB	_	Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	их	они	PRON	_	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	obj	_	_
+15	пришлось	прийтись	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	12	conj	_	feat="Transit=Intr"|_
+16	создать	создать	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	15	csubj	_	feat="Transit=Tran"|_
+17	заново	заново	ADV	_	Degree=Pos	16	advmod	_	SpaceAfter=No
+18	,	,	PUNCT	_	_	23	punct	_	_
+19	и	и	CCONJ	_	_	23	cc	_	_
+20	образцом	образец	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Sing	23	xcomp	_	_
+21	для	для	ADP	_	_	22	case	_	_
+22	них	они	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	20	nmod	_	_
+23	послужили	послужить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	12	conj	_	feat="Transit=Intr"|_
+24	прежде	прежде	ADP	_	ExtPos=ADV	26	advmod	_	_
+25	всего	всё	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Tot	24	fixed	_	_
+26	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	23	nsubj	_	_
+27	математической	математический	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	28	amod	_	_
+28	логики	логика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	26	nmod	_	_
+29	и	и	CCONJ	_	_	31	cc	_	_
+30	абстрактной	абстрактный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	31	amod	_	_
+31	алгебры	алгебра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	28	conj	_	SpaceAfter=No
+32	.	.	PUNCT	_	_	12	punct	_	_
+
+# sent_id = uch-nauch--encicl_phil--encicl94-18
+# genre = nonfiction-academic-encycl
+# text = Так возникла новая наука -- математическая лингвистика.
+1	Так	так	ADV	_	Degree=Pos|PronType=Dem	2	advmod	_	pos="ADVPRO"|_
+2	возникла	возникнуть	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Intr"|_
+3	новая	новый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	_
+4	наука	наука	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+5	--	--	PUNCT	_	_	7	punct	_	_
+6	математическая	математический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	7	amod	_	_
+7	лингвистика	лингвистика	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	4	appos	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	2	punct	_	_
+
+# sent_id = uch-nauch--encicl_phil--encicl94-19
+# genre = nonfiction-academic-encycl
+# text = И хотя это математическая дисциплина, разрабатываемые ею понятия и методы находят применение в языкознании и играют в нем все большую роль, становясь постепенно одним из его главных инструментов.
+1	И	и	CCONJ	_	_	12	cc	_	_
+2	хотя	хотя	SCONJ	_	_	5	mark	_	_
+3	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing|PronType=Dem	5	nsubj	_	_
+4	математическая	математический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	5	amod	_	_
+5	дисциплина	дисциплина	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	12	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	_
+7	разрабатываемые	разрабатывать	VERB	_	Aspect=Imp|Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	9	acl	_	feat="Transit=Tran"|_
+8	ею	она	PRON	_	Case=Ins|Gender=Fem|Number=Sing|Person=3|PronType=Prs	7	obl:agent	_	_
+9	понятия	понятие	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	12	nsubj	_	_
+10	и	и	CCONJ	_	_	11	cc	_	_
+11	методы	метод	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	9	conj	_	_
+12	находят	находить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	feat="Transit=Tran"|_
+13	применение	применение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	12	obj	_	_
+14	в	в	ADP	_	_	15	case	_	_
+15	языкознании	языкознание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	12	obl	_	_
+16	и	и	CCONJ	_	_	17	cc	_	_
+17	играют	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	12	conj	_	feat="Transit=Tran"|_
+18	в	в	ADP	_	_	19	case	_	_
+19	нем	оно	PRON	_	Case=Loc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obl	_	_
+20	все	всё	ADV	_	Degree=Pos|PronType=Tot	21	advmod	_	pos="ADVPRO"|_
+21	большую	больший	ADJ	_	Case=Acc|Degree=Cmp|Gender=Fem|Number=Sing	22	amod	_	_
+22	роль	роль	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	17	obj	_	SpaceAfter=No
+23	,	,	PUNCT	_	_	24	punct	_	_
+24	становясь	становиться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	17	advcl	_	feat="Transit=Intr"|_
+25	постепенно	постепенно	ADV	_	Degree=Pos	24	advmod	_	_
+26	одним	один	DET	_	Case=Ins|Gender=Masc|Number=Sing|PronType=Ind	24	xcomp	_	_
+27	из	из	ADP	_	_	30	case	_	_
+28	его	его	DET	_	Poss=Yes|PronType=Prs	30	det	_	_
+29	главных	главный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	30	amod	_	_
+30	инструментов	инструмент	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	26	nmod	_	SpaceAfter=No
+31	.	.	PUNCT	_	_	12	punct	_	sent_after='</p>\n<p>'
+
+# sent_id = uch-nauch--encicl_phil--encicl94-20
+# genre = nonfiction-academic-encycl
+# text = Для чего же используются в языкознании математические средства?
+1	Для	для	ADP	_	_	2	case	_	_
+2	чего	что	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing|PronType=Int	4	obl:tmod	_	_
+3	же	же	PART	_	_	2	advmod	_	_
+4	используются	использоваться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	0	root	_	feat="Transit=Intr"|_
+5	в	в	ADP	_	_	6	case	_	_
+6	языкознании	языкознание	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	4	obl	_	_
+7	математические	математический	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	8	amod	_	_
+8	средства	средство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	4	nsubj	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	4	punct	_	_
