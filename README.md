@@ -79,6 +79,26 @@
     <td align="center">02.10.2026</td>
     <td align="center">28.09.2026</td>
   </tr>
+  <tr>
+    <td>6</td>
+    <td>Морфология в NLP</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2026_6_morphology.ipynb>Тетрадка</a>
+    </td>
+    <td align="center">05.10.2026</td>
+    <td align="center">05.10.2026</td>
+    <td align="center">05.10.2026</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>Синтаксис в NLP</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2026_7_syntax.ipynb>Тетрадка</a>
+    </td>
+    <td align="center">05.10.2026</td>
+    <td align="center">05.10.2026</td>
+    <td align="center">05.10.2026</td>
+  </tr>
 </table>
 
 ## Домашние задания
