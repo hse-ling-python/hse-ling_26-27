@@ -106,5 +106,7 @@
 | # | Ссылка | Дедлайн |
 |-|-|-|
 |1|[Git](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/python2nd_2026_hw1.md)|02.10, 23:59|
+|2|[Pandas](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/hw2_2026_pandas.ipynb)|19.10, 23:59|
+
 
 ## Дополнительные материалы
