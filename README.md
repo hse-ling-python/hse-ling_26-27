@@ -107,9 +107,9 @@
       <br>
       <a href=https://docs.google.com/presentation/d/1ZsLi-N3hfpowzXhxvOfwj-sx6es-Qnr67bQXqApZvpA/edit?usp=sharing>Презентация</a>
     </td>
-    <td align="center">05.10.2026</td>
-    <td align="center">05.10.2026</td>
-    <td align="center">05.10.2026</td>
+    <td align="center">12.10.2026</td>
+    <td align="center">12.10.2026</td>
+    <td align="center">12.10.2026</td>
   </tr>
     <tr>
     <td>9</td>
@@ -117,9 +117,9 @@
     <td>
       <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/bow_tfidf_2026.ipynb>Тетрадка</a>
     </td>
-    <td align="center">05.10.2026</td>
-    <td align="center">05.10.2026</td>
-    <td align="center">05.10.2026</td>
+    <td align="center">12.10.2026</td>
+    <td align="center">12.10.2026</td>
+    <td align="center">12.10.2026</td>
   </tr>
 </table>
 
