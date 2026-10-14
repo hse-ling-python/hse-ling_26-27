@@ -121,14 +121,25 @@
     <td align="center">12.10.2026</td>
     <td align="center">12.10.2026</td>
   </tr>
+  </tr>
+    <tr>
+    <td>10</td>
+    <td>Векторные модели и семантика, p.2</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/word2vec_bert_2026.ipynb>Тетрадка</a>
+    </td>
+    <td align="center">19.10.2026</td>
+    <td align="center">19.10.2026</td>
+    <td align="center">19.10.2026</td>
+  </tr>
 </table>
 
 ## Домашние задания
 
 | # | Ссылка | Дедлайн |
 |-|-|-|
-|1|[Git](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/python2nd_2026_hw1.md)|02.10, 23:59|
-|2|[Pandas](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/hw2_2026_pandas.ipynb)|19.10, 23:59|
+|1|[Git](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/python2nd_2026_hw1.md)|02.10.2026, 23:59 – сдача домашнего задания<br>23.10.2026, 23:59 – внесение исправлений и мерджа ветки в main|
+|2|[Pandas](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/hw2_2026_pandas.ipynb)|19.10.2026, 23:59|
 
 
 ## Дополнительные материалы
