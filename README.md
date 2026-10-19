@@ -122,11 +122,21 @@
     <td align="center">12.10.2026</td>
   </tr>
   </tr>
-    <tr>
+  <tr>
     <td>10</td>
     <td>Векторные модели и семантика, p.2</td>
     <td>
       <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/word2vec_bert_2026.ipynb>Тетрадка</a>
+    </td>
+    <td align="center">19.10.2026</td>
+    <td align="center">19.10.2026</td>
+    <td align="center">19.10.2026</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>Регулярные выражения</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2026_regexp_practice.ipynb>Тетрадка</a>
     </td>
     <td align="center">19.10.2026</td>
     <td align="center">19.10.2026</td>
