@@ -150,6 +150,7 @@
 |-|-|-|
 |1|[Git](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/python2nd_2026_hw1.md)|02.10.2026, 23:59 – сдача домашнего задания<br>23.10.2026, 23:59 – внесение исправлений и мерджа ветки в main|
 |2|[Pandas](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/hw2_2026_pandas.ipynb)|19.10.2026, 23:59|
+|2|[NLP-инструменты](https://github.com/hse-ling-python/hse-ling_26-27/blob/main/homeworks/hw3_2026.ipynb)|07.11.2026, 23:59|
 
 
 ## Дополнительные материалы
