@@ -28,6 +28,9 @@
     <th align="center">БФИКЛ253 (Ника)</th>
   </tr>
   <tr>
+  <tr>
+    <th colspan="6" style="text-align: center; vertical-align: middle;">Первый модуль</th>
+  </tr>
     <td>1</td>
     <td>Вводный семинар. Markdown, json</td>
     <td>
@@ -141,6 +144,19 @@
     <td align="center">19.10.2026</td>
     <td align="center">19.10.2026</td>
     <td align="center">19.10.2026</td>
+  </tr>
+  <tr>
+    <th colspan="6" style="text-align: center; vertical-align: middle;">Второй модуль</th>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td>Объектно-ориентированное программирование</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2026_oop.ipynb>Тетрадка</a>
+    </td>
+    <td align="center">02.11.2026</td>
+    <td align="center">02.11.2026</td>
+    <td align="center">02.11.2026</td>
   </tr>
 </table>
 
