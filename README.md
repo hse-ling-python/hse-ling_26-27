@@ -158,7 +158,19 @@
     <td align="center">02.11.2026</td>
     <td align="center">02.11.2026</td>
   </tr>
+  <tr>
+    <td>12</td>
+    <td>Что такое интернет</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/internet_2026.ipynb>Тетрадка</a>
+    </td>
+    <td align="center">09.11.2026</td>
+    <td align="center">09.11.2026</td>
+    <td align="center">09.11.2026</td>
+  </tr>
 </table>
+
+
 
 ## Домашние задания
 
