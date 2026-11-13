@@ -168,6 +168,18 @@
     <td align="center">09.11.2026</td>
     <td align="center">09.11.2026</td>
   </tr>
+  <tr>
+    <td>13</td>
+    <td>Краулеры</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2026_crawlers.ipynb>Тетрадка</a>
+      <br>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2026_crawlers_practice.ipynb>Практика</a>
+    </td>
+    <td align="center">16.11.2026</td>
+    <td align="center">16.11.2026</td>
+    <td align="center">16.11.2026</td>
+  </tr>
 </table>
 
 
