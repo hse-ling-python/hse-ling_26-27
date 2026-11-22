@@ -192,6 +192,16 @@
     <td align="center">16.11.2026</td>
     <td align="center">16.11.2026</td>
   </tr>
+    <tr>
+    <td>14</td>
+    <td>Работа с грязными данными</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2026_bad_data.ipynb>Тетрадка</a>
+    </td>
+    <td align="center">23.11.2026</td>
+    <td align="center">23.11.2026</td>
+    <td align="center">23.11.2026</td>
+  </tr>
 </table>
 
 
