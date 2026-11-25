@@ -193,7 +193,7 @@
     <td align="center">16.11.2026</td>
   </tr>
   <tr>
-    <td>14</td>
+    <td>15</td>
     <td>Работа с грязными данными</td>
     <td>
       <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2026_bad_data.ipynb>Тетрадка</a>
@@ -201,6 +201,26 @@
     <td align="center">23.11.2026</td>
     <td align="center">23.11.2026</td>
     <td align="center">23.11.2026</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>Базы данных. Основы SQL</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2025_db_basics.ipynb>Тетрадка</a>
+    </td>
+    <td align="center">30.11.2026</td>
+    <td align="center">30.11.2026</td>
+    <td align="center">30.11.2026</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>Работа с SQL через python</td>
+    <td>
+      <a href=https://github.com/hse-ling-python/hse-ling_26-27/blob/main/seminars/2025_sql_in_python.ipynb>Тетрадка</a>
+    </td>
+    <td align="center">30.11.2026</td>
+    <td align="center">30.11.2026</td>
+    <td align="center">30.11.2026</td>
   </tr>
 </table>
 
